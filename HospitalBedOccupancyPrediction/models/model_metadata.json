@@ -1,0 +1,70 @@
+{
+    "project_name": "Hospital Bed Occupancy Prediction Using Random Forest Regression",
+    "algorithm": "Random Forest Regression (sklearn.ensemble.RandomForestRegressor)",
+    "model_parameters": {
+        "n_estimators": 100,
+        "random_state": 42,
+        "max_depth": 12,
+        "min_samples_split": 4,
+        "min_samples_leaf": 2
+    },
+    "dataset_summary": {
+        "raw_records": 2234,
+        "retained_records": 2234,
+        "missing_values_handled": 0,
+        "duplicates_removed": 0,
+        "inconsistent_bed_records_handled": 117,
+        "date_range_start": "2020-03-10",
+        "date_range_end": "2023-03-31",
+        "wards": [
+            "General Medical Ward",
+            "Intensive Care Unit (ICU)"
+        ],
+        "provenance": "Verified Public Healthcare Tracking Dataset (Sledilnik Healthcare / COVID-19 Acute Care Data)",
+        "target_variable": "occupied_beds"
+    },
+    "train_test_split": {
+        "strategy": "Chronological (Time-Based Non-Shuffled)",
+        "train_ratio": 0.8,
+        "test_ratio": 0.2,
+        "train_records": 1785,
+        "test_records": 447,
+        "train_dates": "2020-03-11 to 2022-08-20",
+        "test_dates": "2022-08-20 to 2023-03-31"
+    },
+    "evaluation_metrics": {
+        "mae": 3.132,
+        "mse": 22.296,
+        "rmse": 4.722,
+        "r2_score": 0.9833,
+        "r2_percentage": 98.33
+    },
+    "features": [
+        "total_beds",
+        "lag_1_occupied_beds",
+        "lag_1_occupancy_rate",
+        "rolling_7_occupied_beds",
+        "recent_admissions",
+        "recent_discharges",
+        "rolling_7_admissions",
+        "rolling_7_discharges",
+        "day_of_week",
+        "month",
+        "day_of_month",
+        "is_weekend"
+    ],
+    "feature_importances": {
+        "lag_1_occupied_beds": 0.996,
+        "total_beds": 0.0028,
+        "rolling_7_admissions": 0.0004,
+        "recent_admissions": 0.0001,
+        "rolling_7_discharges": 0.0001,
+        "day_of_month": 0.0001,
+        "rolling_7_occupied_beds": 0.0001,
+        "lag_1_occupancy_rate": 0.0001,
+        "recent_discharges": 0.0001,
+        "day_of_week": 0.0001,
+        "month": 0.0,
+        "is_weekend": 0.0
+    }
+}

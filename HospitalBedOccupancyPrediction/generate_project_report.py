@@ -1,0 +1,536 @@
+"""
+Generate Exact 11-Page PDF Project Report for Hospital Bed Occupancy Prediction.
+Matches the exact structure, typography, code blocks, screenshots, and 11-page layout of the sample PDF.
+Uses Microsoft Edge headless --print-to-pdf.
+"""
+
+import os
+import sys
+import subprocess
+
+if sys.platform == 'win32':
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+        sys.stderr.reconfigure(encoding='utf-8')
+    except Exception:
+        pass
+
+BASE_DIR = r"c:\Users\thami\BRO-AI\HospitalBedOccupancyPrediction"
+SCREENSHOTS_DIR = os.path.join(BASE_DIR, "pdf_report", "screenshots")
+OUTPUT_HTML = os.path.join(BASE_DIR, "pdf_report", "hospital_bed_project_report.html")
+OUTPUT_PDF = os.path.join(BASE_DIR, "Hospital_Bed_Occupancy_Prediction_Project_Report.pdf")
+
+def img_uri(filename):
+    p = os.path.join(SCREENSHOTS_DIR, filename).replace("\\", "/")
+    return f"file:///{p}"
+
+html_document = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Hospital Bed Occupancy Prediction Using Random Forest Regression</title>
+<style>
+  @page {{
+    size: A4 portrait;
+    margin: 18mm 18mm 18mm 18mm;
+    @bottom-center {{
+      content: counter(page);
+      font-family: "Times New Roman", Times, serif;
+      font-size: 10pt;
+    }}
+  }}
+
+  * {{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }}
+
+  body {{
+    font-family: "Times New Roman", Times, Georgia, serif;
+    font-size: 10.5pt;
+    line-height: 1.4;
+    color: #111111;
+    background: #ffffff;
+  }}
+
+  /* Page break utilities */
+  .page {{
+    page-break-after: always;
+    height: 258mm;
+    max-height: 258mm;
+    position: relative;
+    overflow: hidden;
+  }}
+  .page:last-child {{
+    page-break-after: avoid;
+  }}
+
+  /* Headings */
+  .doc-title {{
+    text-align: center;
+    font-size: 13pt;
+    font-weight: bold;
+    margin-bottom: 3px;
+    line-height: 1.25;
+  }}
+  .doc-subtitle {{
+    text-align: center;
+    font-size: 10.5pt;
+    font-style: italic;
+    margin-bottom: 16px;
+  }}
+  .section-h1 {{
+    font-size: 10.5pt;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 6px;
+  }}
+  .section-h1-first {{
+    margin-top: 0;
+  }}
+
+  /* Text & Paragraphs */
+  p {{
+    text-align: justify;
+    margin-bottom: 10px;
+    text-justify: inter-word;
+  }}
+
+  /* Lists */
+  ol, ul {{
+    margin-left: 22px;
+    margin-bottom: 10px;
+  }}
+  li {{
+    margin-bottom: 4px;
+    text-align: justify;
+    font-size: 10.5pt;
+  }}
+
+  /* Code Blocks */
+  .code-title {{
+    font-size: 9.5pt;
+    font-weight: bold;
+    margin-top: 8px;
+    margin-bottom: 4px;
+  }}
+  .code-box {{
+    background: #ffffff;
+    border: 1px solid #c8c8c8;
+    padding: 6px 10px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 8pt;
+    line-height: 1.28;
+    color: #000000;
+    margin-bottom: 8px;
+    white-space: pre-wrap;
+    word-break: break-all;
+  }}
+  .code-comment {{
+    color: #555555;
+    font-style: italic;
+  }}
+
+  /* Screenshots & Figures */
+  .figure-wrap {{
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 10px;
+  }}
+  .figure-img {{
+    max-width: 95%;
+    max-height: 82mm;
+    border: 1px solid #d0d0d0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }}
+  .figure-caption {{
+    font-size: 9pt;
+    font-style: italic;
+    color: #222222;
+    margin-top: 3px;
+    margin-bottom: 8px;
+    text-align: center;
+  }}
+
+  .tree-fig {{
+    max-height: 125mm;
+  }}
+  .single-fig {{
+    max-height: 105mm;
+  }}
+</style>
+</head>
+<body>
+
+  <!-- ============================================================== -->
+  <!-- PAGE 1                                                         -->
+  <!-- ============================================================== -->
+  <div class="page">
+    <div class="doc-title">
+      Hospital Bed Occupancy Prediction Using Random Forest Regression<br>Ensemble Machine Learning Model
+    </div>
+    <div class="doc-subtitle">
+      (Hospital Bed Occupancy Forecasting using Random Forest Regression)
+    </div>
+
+    <div class="section-h1 section-h1-first">Problem Statement:</div>
+    <p>
+      Hospital inpatient capacity management is one of the most critical operational challenges confronting modern healthcare systems worldwide. Unpredictable daily patient flow, sudden epidemic surges, and seasonal admission spikes regularly cause severe bed shortages, prolonged Emergency Department (ED) boarding times, and critical ambulance diversion. Clinical health authorities, including the World Health Organization (WHO) and the UK National Health Service (NHS), establish an 85% Bed Occupancy Rate (BOR) as the maximum safe operational threshold; exceeding this ceiling severely compromises patient safety, escalates hospital-acquired infection risks, and forces elective surgery cancellations.
+    </p>
+    <p>
+      Traditional bed allocation relies heavily on retrospective reporting or static managerial intuition, which fails to capture non-linear patient turnover, admission momentum, and day-of-week discharge rhythms. There is, therefore, an urgent need for an automated, fast, and mathematically sound machine learning forecasting system capable of analyzing historical patient flow metrics—specifically total registered capacity, recent occupied beds, daily admissions, daily discharges, and calendar seasonality—to accurately forecast expected occupied beds and occupancy rates for a selected future date. This project designs and implements an end-to-end, web-based Hospital Bed Occupancy Prediction system using Random Forest Regression. The project encompasses the complete 10-step supervised machine learning lifecycle: data ingestion, data preprocessing, exploratory data analysis (EDA), feature engineering strictly eliminating lookahead bias, chronological train-test partitioning, ensemble model training, quantitative evaluation on unseen test data (MAE, MSE, RMSE, R²), residual error diagnostics, and interactive real-time inference served through a local Flask web application.
+    </p>
+
+    <div class="section-h1">Objectives:</div>
+    <ol>
+      <li>To collect, validate, and preprocess a historical hospital bed occupancy and patient flow dataset across clinical care wards (General Medical Ward and Intensive Care Unit).</li>
+      <li>To conduct comprehensive Exploratory Data Analysis (EDA) and generate high-resolution visual plots for bed occupancy trends, capacity percentages relative to the 85% safety threshold, patient flow balances, and feature correlations.</li>
+      <li>To engineer predictive features, including autoregressive lag-1 occupancy, 7-day moving averages, and calendar seasonality features, strictly avoiding future target leakage.</li>
+      <li>To partition the dataset into an 80% training set and a 20% held-out testing set using chronological time-based splitting to prevent lookahead bias.</li>
+      <li>To design, train, tune, and save a Random Forest Regression ensemble model (100 decision trees) using Scikit-Learn.</li>
+      <li>To evaluate the model on the held-out test partition and report regression metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R² Score, alongside residual normality and homoscedasticity analysis.</li>
+    </ol>
+
+    <div class="section-h1">Software / Hardware Required:</div>
+    <ul>
+      <li>• Operating System: Windows / Linux / macOS</li>
+      <li>• IDE: Visual Studio Code</li>
+      <li>• Language: Python 3.x</li>
+      <li>• Backend Framework: Flask (REST API)</li>
+    </ul>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- PAGE 2                                                         -->
+  <!-- ============================================================== -->
+  <div class="page">
+    <ul>
+      <li>• Machine Learning: scikit-learn (RandomForestRegressor, mean_absolute_error, r2_score)</li>
+      <li>• Data Analysis &amp; Numerical Processing: Pandas, NumPy</li>
+      <li>• Visualization: Matplotlib, Seaborn</li>
+      <li>• Model Serialization &amp; Persistence: Joblib</li>
+      <li>• Frontend: HTML5, CSS3, JavaScript</li>
+      <li>• Dataset: Historical Hospital Bed Occupancy Dataset (2,234 records across 2 wards)</li>
+      <li>• Version Control: Git</li>
+    </ul>
+
+    <div class="section-h1">Project Directory Structure:</div>
+    <p>
+      The project (“HospitalBedOccupancyPrediction”) is organized as a clean Flask backend with dedicated folders for raw and processed datasets, serialized models, generated exploratory plots, and frontend presentation templates, as shown below.
+    </p>
+
+    <div class="figure-wrap">
+      <img src="{img_uri('fig1_project_structure.png')}" class="figure-img tree-fig" alt="Project Directory Structure">
+      <div class="figure-caption">
+        Fig 1: Project directory structure of HospitalBedOccupancyPrediction in Visual Studio Code
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- PAGE 3                                                         -->
+  <!-- ============================================================== -->
+  <div class="page">
+    <div class="section-h1 section-h1-first">Procedure:</div>
+    <ol>
+      <li>Collect and organize historical hospital census observations (2,234 records across General Medical Ward and Intensive Care Unit) into <code>data/hospital_bed_occupancy.csv</code>.</li>
+      <li>Perform automated data preprocessing: inspect missing values, verify absence of duplicate entries, convert date strings to datetime objects, and chronologically sort observations.</li>
+      <li>Enforce operational consistency bounds: cap surge occupancy overflow (<code>occupied_beds ≤ total_beds</code>) to preserve clinical trend signals while preventing mathematical anomalies.</li>
+      <li>Execute Exploratory Data Analysis (EDA) using Matplotlib and Seaborn, generating high-resolution charts for historical occupancy, BOR (%) vs. the 85% safety threshold, patient flow balance, and numerical feature correlations inside <code>static/plots/</code>.</li>
+      <li>Select 12 predictive features known strictly at forecast time ($t-1$), ensuring total elimination of lookahead bias.</li>
+      <li>Engineer autoregressive lag-1 features (<code>lag_1_occupied_beds</code>, <code>lag_1_occupancy_rate</code>), 7-day rolling momentum features (<code>rolling_7_occupied_beds</code>, <code>rolling_7_admissions</code>, <code>rolling_7_discharges</code>), and calendar seasonality variables (<code>day_of_week</code>, <code>month</code>, <code>day_of_month</code>, <code>is_weekend</code>) grouped by ward.</li>
+      <li>Split data chronologically into an 80% training set (1,785 records: Mar 2020 to Aug 2022) and a 20% held-out testing set (447 records: Aug 2022 to Mar 2023), strictly avoiding random shuffling.</li>
+      <li>Train the Random Forest Regressor (<code>n_estimators=100, random_state=42, max_depth=12</code>), evaluate on the held-out test partition, and serialize the fitted model to <code>models/bed_occupancy_model.pkl</code>.</li>
+      <li>Calculate test metrics: MAE, MSE, RMSE, R² Score, and plot Actual vs. Predicted line chart and residual homoscedasticity distributions.</li>
+      <li>Deploy the Flask web application (<code>app.py</code>), serve an interactive prediction form, validate user inputs, generate operational bed forecasts, compute BOR % and remaining buffer capacity, and present risk status badges.</li>
+    </ol>
+
+    <div class="section-h1">Implementation Code:</div>
+    <p>
+      Representative implementation of the key modules used in the project, based on the pipeline shown in the application (adapt variable/file names to match your exact source files).
+    </p>
+
+    <div class="code-title">1. Data Preprocessing &amp; Surge Bounding (train_model.py)</div>
+    <div class="code-box">import pandas as pd
+import numpy as np
+
+def preprocess_hospital_data(raw_csv_path):
+    df = pd.read_csv(raw_csv_path)
+    df["date"] = pd.to_datetime(df["date"])
+    
+    numeric_cols = ["total_beds", "occupied_beds", "admissions", "discharges"]
+    for col in numeric_cols:
+        df[col] = pd.to_numeric(df[col], errors="coerce")
+    df = df.dropna(subset=numeric_cols).reset_index(drop=True)
+    
+    df = df[(df["total_beds"] > 0) & (df["occupied_beds"] >= 0) & 
+            (df["admissions"] >= 0) & (df["discharges"] >= 0)].copy()
+
+    # Bounded operational constraint: Cap surge overflow at baseline capacity
+    df["occupied_beds"] = np.minimum(df["occupied_beds"], df["total_beds"])
+    df["occupancy_percentage"] = (df["occupied_beds"] / df["total_beds"]) * 100.0
+
+    df = df.sort_values(by=["ward", "date"]).reset_index(drop=True)
+    return df</div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- PAGE 4                                                         -->
+  <!-- ============================================================== -->
+  <div class="page">
+    <div class="code-title">2. Feature Engineering with Zero Data Leakage (train_model.py)</div>
+    <div class="code-box">def engineer_features(df):
+    wards_features = []
+    for ward_name, group in df.groupby("ward"):
+        g = group.copy().sort_values("date")
+        
+        # Calendar & temporal features
+        g["day_of_week"] = g["date"].dt.day_of_week
+        g["month"] = g["date"].dt.month
+        g["day_of_month"] = g["date"].dt.day
+        g["is_weekend"] = (g["day_of_week"] >= 5).astype(int)
+        
+        # Autoregressive Lag-1 features (known from day t-1)
+        g["lag_1_occupied_beds"] = g["occupied_beds"].shift(1)
+        g["lag_1_occupancy_rate"] = (g["occupied_beds"] / g["total_beds"]).shift(1)
+        g["recent_admissions"] = g["admissions"].shift(1)
+        g["recent_discharges"] = g["discharges"].shift(1)
+        
+        # Rolling 7-day moving averages (shifted by 1 to prevent lookahead)
+        g["rolling_7_occupied_beds"] = g["occupied_beds"].shift(1).rolling(7, min_periods=1).mean()
+        g["rolling_7_admissions"] = g["admissions"].shift(1).rolling(7, min_periods=1).mean()
+        g["rolling_7_discharges"] = g["discharges"].shift(1).rolling(7, min_periods=1).mean()
+        
+        wards_features.append(g)
+
+    df_feat = pd.concat(wards_features).dropna().sort_values("date").reset_index(drop=True)
+    return df_feat</div>
+
+    <div class="code-title">3. Model Training &amp; Chronological 80/20 Split (train_model.py)</div>
+    <div class="code-box">from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+import joblib
+
+feature_cols = [
+    "total_beds", "lag_1_occupied_beds", "lag_1_occupancy_rate",
+    "rolling_7_occupied_beds", "recent_admissions", "recent_discharges",
+    "rolling_7_admissions", "rolling_7_discharges",
+    "day_of_week", "month", "day_of_month", "is_weekend"
+]
+target_col = "occupied_beds"
+
+# Chronological 80/20 train-test split (preserving time series order)
+split_idx = int(len(df_feat) * 0.8)
+train_df, test_df = df_feat.iloc[:split_idx], df_feat.iloc[split_idx:]
+
+X_train, y_train = train_df[feature_cols], train_df[target_col]
+X_test, y_test = test_df[feature_cols], test_df[target_col]
+
+# Fit Random Forest Regressor
+rf_model = RandomForestRegressor(n_estimators=100, random_state=42, max_depth=12)
+rf_model.fit(X_train, y_train)</div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- PAGE 5                                                         -->
+  <!-- ============================================================== -->
+  <div class="page">
+    <div class="code-box"># Evaluate on held-out test partition
+preds = rf_model.predict(X_test)
+mae = mean_absolute_error(y_test, preds)
+rmse = np.sqrt(mean_squared_error(y_test, preds))
+r2 = r2_score(y_test, preds)
+
+joblib.dump(rf_model, "models/bed_occupancy_model.pkl")</div>
+
+    <div class="code-title">4. Prediction Route &amp; Input Validation (app.py)</div>
+    <div class="code-box">from flask import Flask, request, render_template
+import datetime, joblib, pandas as pd
+
+app = Flask(__name__)
+model = joblib.load("models/bed_occupancy_model.pkl")
+
+@app.route("/predict", methods=["POST"])
+def predict():
+    ward = request.form.get("ward")
+    pred_date = datetime.datetime.strptime(request.form.get("prediction_date"), "%Y-%m-%d").date()
+    total_beds = float(request.form.get("total_beds"))
+    lag_1_occupied = float(request.form.get("lag_1_occupied_beds"))
+    recent_adm = float(request.form.get("recent_admissions"))
+    recent_dis = float(request.form.get("recent_discharges"))
+
+    day_of_week = pred_date.weekday()
+    month = pred_date.month
+    day_of_month = pred_date.day
+    is_weekend = 1 if day_of_week >= 5 else 0
+    lag_1_occupancy_rate = lag_1_occupied / max(1.0, total_beds)
+
+    input_df = pd.DataFrame([{{
+        "total_beds": total_beds, "lag_1_occupied_beds": lag_1_occupied,
+        "lag_1_occupancy_rate": lag_1_occupancy_rate, "rolling_7_occupied_beds": lag_1_occupied,
+        "recent_admissions": recent_adm, "recent_discharges": recent_dis,
+        "rolling_7_admissions": recent_adm, "rolling_7_discharges": recent_dis,
+        "day_of_week": day_of_week, "month": month, "day_of_month": day_of_month,
+        "is_weekend": is_weekend
+    }}])
+
+    raw_pred = float(model.predict(input_df)[0])
+    operational_pred = int(round(max(0.0, min(total_beds, raw_pred))))
+    occupancy_pct = round((operational_pred / total_beds) * 100.0, 1)
+    remaining_capacity = int(max(0.0, total_beds - operational_pred))
+    return render_template("index.html", prediction={{"operational_occupied_beds": operational_pred, ...}})</div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- PAGE 6                                                         -->
+  <!-- ============================================================== -->
+  <div class="page">
+    <div class="section-h1 section-h1-first">Output (Step-by-Step Screenshots):</div>
+
+    <div class="figure-wrap" style="margin-top: 10px;">
+      <img src="{img_uri('fig2_dataset_collection.png')}" class="figure-img single-fig" alt="Dataset Collection">
+      <div class="figure-caption">
+        Fig 2: Step 1 — Dataset Collection: preview table, column names, dataset shape, and date range
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- PAGE 7                                                         -->
+  <!-- ============================================================== -->
+  <div class="page">
+    <div class="figure-wrap">
+      <img src="{img_uri('fig3_preprocessing.png')}" class="figure-img" alt="Data Preprocessing">
+      <div class="figure-caption">
+        Fig 3: Step 2 — Data Preprocessing: missing values, duplicates, and surge limit handling
+      </div>
+    </div>
+
+    <div class="figure-wrap" style="margin-top: 12px;">
+      <img src="{img_uri('fig4_eda_occupancy_time.png')}" class="figure-img" alt="EDA Bed Occupancy Over Time">
+      <div class="figure-caption">
+        Fig 4: Step 3 — Exploratory Data Analysis: Historical Bed Occupancy Over Time
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- PAGE 8                                                         -->
+  <!-- ============================================================== -->
+  <div class="page">
+    <div class="figure-wrap">
+      <img src="{img_uri('fig5_eda_occupancy_percentage.png')}" class="figure-img" alt="EDA Bed Occupancy Rate">
+      <div class="figure-caption">
+        Fig 5: Step 3 — Exploratory Data Analysis: Bed Occupancy Rate (BOR %) vs. 85% Safety Ceiling
+      </div>
+    </div>
+
+    <div class="figure-wrap" style="margin-top: 12px;">
+      <img src="{img_uri('fig6_eda_admissions_discharges.png')}" class="figure-img" alt="EDA Patient Flow">
+      <div class="figure-caption">
+        Fig 6: Step 3 — Exploratory Data Analysis: Patient Admissions vs. Discharges Flow
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- PAGE 9                                                         -->
+  <!-- ============================================================== -->
+  <div class="page">
+    <div class="figure-wrap">
+      <img src="{img_uri('fig7_eda_feature_correlation.png')}" class="figure-img" alt="EDA Correlation Heatmap">
+      <div class="figure-caption">
+        Fig 7: Step 3 — Exploratory Data Analysis: Feature Correlation Heatmap
+      </div>
+    </div>
+
+    <div class="figure-wrap" style="margin-top: 12px;">
+      <img src="{img_uri('fig8_feature_engineering.png')}" class="figure-img" alt="Feature Engineering Breakdown">
+      <div class="figure-caption">
+        Fig 8: Step 4 — Feature Selection &amp; Feature Engineering: calendar, lag, and rolling features
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- PAGE 10                                                        -->
+  <!-- ============================================================== -->
+  <div class="page">
+    <div class="figure-wrap">
+      <img src="{img_uri('fig9_model_training.png')}" class="figure-img" alt="Model Training">
+      <div class="figure-caption">
+        Fig 9: Step 5 — Model Training: Random Forest Regressor &amp; Chronological 80/20 Train-Test Split
+      </div>
+    </div>
+
+    <div class="figure-wrap" style="margin-top: 12px;">
+      <img src="{img_uri('fig10_model_evaluation.png')}" class="figure-img" alt="Model Evaluation">
+      <div class="figure-caption">
+        Fig 10: Step 6 — Performance Evaluation Metrics (MAE, MSE, RMSE, R²) and Actual vs Predicted Line Chart
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- PAGE 11                                                        -->
+  <!-- ============================================================== -->
+  <div class="page">
+    <div class="figure-wrap">
+      <img src="{img_uri('fig11_residual_analysis.png')}" class="figure-img" alt="Residual Error Analysis" style="max-height: 72mm;">
+      <div class="figure-caption">
+        Fig 11: Step 6 — Residual Analysis: Error Distribution and Residuals vs Predicted Scatter Plot
+      </div>
+    </div>
+
+    <div class="figure-wrap" style="margin-top: 6px;">
+      <img src="{img_uri('fig12_prediction_general_ward.png')}" class="figure-img" alt="General Medical Ward Prediction" style="max-height: 72mm;">
+      <div class="figure-caption">
+        Fig 12: Step 7 — Hospital Bed Occupancy Prediction Form &amp; Result (General Medical Ward Forecast)
+      </div>
+    </div>
+
+    <div class="section-h1" style="margin-top: 10px;">Result:</div>
+    <p style="font-size: 10pt; line-height: 1.35; margin-bottom: 0;">
+      An end-to-end, web-based Hospital Bed Occupancy Prediction system was successfully designed and implemented using a Flask backend, a Random Forest Regression ensemble model (Scikit-Learn), and a modern clinical analytics web interface. Historical hospital patient flow observations (2,234 daily records across General Medical Ward and Intensive Care Unit) were systematically cleaned, preprocessed, explored through high-resolution EDA visualizations, and partitioned into an 80% training set (1,785 records) and a 20% held-out testing set (447 records) using strict chronological ordering to eliminate data leakage. Autoregressive lag features, 7-day moving averages, and calendar seasonality variables were engineered without lookahead bias. On the unseen test partition, the fitted Random Forest Regressor achieved exceptional forecasting precision with a <strong>Mean Absolute Error (MAE) of 3.132 beds</strong>, a <strong>Root Mean Squared Error (RMSE) of 4.722 beds</strong>, a <strong>Mean Squared Error (MSE) of 22.296</strong>, and a <strong>Coefficient of Determination (R²) of 0.9833 (98.33%)</strong>. The trained model was serialized using Joblib, and operational predictions—complete with Bed Occupancy Rate (BOR %), remaining buffer capacity, and clinical risk status classifications—are reliably served through the local Flask application.
+    </p>
+  </div>
+
+</body>
+</html>
+"""
+
+def generate_pdf():
+    print("[*] Writing print-ready HTML project report template...")
+    with open(OUTPUT_HTML, "w", encoding="utf-8") as f:
+        f.write(html_document)
+    print(f"  ✓ Saved HTML report: {OUTPUT_HTML}")
+
+    edge_path = r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+    if not os.path.exists(edge_path):
+        edge_path = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
+
+    print("[*] Converting HTML report to PDF via Microsoft Edge headless...")
+    cmd = [
+        edge_path,
+        "--headless",
+        "--disable-gpu",
+        "--run-all-compositor-stages-before-draw",
+        f"--print-to-pdf={OUTPUT_PDF}",
+        "--no-pdf-header-footer",
+        OUTPUT_HTML
+    ]
+    subprocess.run(cmd, check=True)
+    
+    if os.path.exists(OUTPUT_PDF):
+        size_kb = os.path.getsize(OUTPUT_PDF) / 1024
+        print(f"  🎉 PDF REPORT SUCCESSFULLY GENERATED!")
+        print(f"  File Location: {OUTPUT_PDF}")
+        print(f"  File Size: {size_kb:.1f} KB")
+        return OUTPUT_PDF
+    else:
+        print("  ❌ PDF generation failed.")
+        return None
+
+if __name__ == "__main__":
+    generate_pdf()

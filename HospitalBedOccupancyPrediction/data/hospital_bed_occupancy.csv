@@ -1,0 +1,2235 @@
+date,hospital_name,ward,total_beds,occupied_beds,admissions,discharges
+2020-03-10,Metropolitan Healthcare System,General Medical Ward,270,18,0,8
+2020-03-11,Metropolitan Healthcare System,General Medical Ward,270,18,2,2
+2020-03-12,Metropolitan Healthcare System,General Medical Ward,292,17,4,5
+2020-03-13,Metropolitan Healthcare System,General Medical Ward,332,22,9,4
+2020-03-14,Metropolitan Healthcare System,General Medical Ward,332,29,8,0
+2020-03-15,Metropolitan Healthcare System,General Medical Ward,332,33,4,0
+2020-03-16,Metropolitan Healthcare System,General Medical Ward,332,32,1,2
+2020-03-17,Metropolitan Healthcare System,General Medical Ward,332,38,11,5
+2020-03-18,Metropolitan Healthcare System,General Medical Ward,332,43,9,6
+2020-03-19,Metropolitan Healthcare System,General Medical Ward,332,47,7,3
+2020-03-20,Metropolitan Healthcare System,General Medical Ward,332,46,3,4
+2020-03-21,Metropolitan Healthcare System,General Medical Ward,332,51,8,3
+2020-03-22,Metropolitan Healthcare System,General Medical Ward,332,51,2,1
+2020-03-23,Metropolitan Healthcare System,General Medical Ward,501,64,8,3
+2020-03-24,Metropolitan Healthcare System,General Medical Ward,539,63,14,0
+2020-03-25,Metropolitan Healthcare System,General Medical Ward,547,72,10,1
+2020-03-26,Metropolitan Healthcare System,General Medical Ward,547,64,7,4
+2020-03-27,Metropolitan Healthcare System,General Medical Ward,547,75,23,0
+2020-03-28,Metropolitan Healthcare System,General Medical Ward,547,77,7,6
+2020-03-29,Metropolitan Healthcare System,General Medical Ward,547,87,8,1
+2020-03-30,Metropolitan Healthcare System,General Medical Ward,547,89,11,1
+2020-03-31,Metropolitan Healthcare System,General Medical Ward,547,89,3,9
+2020-04-01,Metropolitan Healthcare System,General Medical Ward,562,83,7,7
+2020-04-02,Metropolitan Healthcare System,General Medical Ward,562,83,6,6
+2020-04-03,Metropolitan Healthcare System,General Medical Ward,562,83,10,2
+2020-04-04,Metropolitan Healthcare System,General Medical Ward,562,78,6,10
+2020-04-05,Metropolitan Healthcare System,General Medical Ward,562,79,9,5
+2020-04-06,Metropolitan Healthcare System,General Medical Ward,562,82,8,4
+2020-04-07,Metropolitan Healthcare System,General Medical Ward,562,77,13,13
+2020-04-08,Metropolitan Healthcare System,General Medical Ward,562,75,9,5
+2020-04-09,Metropolitan Healthcare System,General Medical Ward,562,75,6,8
+2020-04-10,Metropolitan Healthcare System,General Medical Ward,562,70,8,10
+2020-04-11,Metropolitan Healthcare System,General Medical Ward,562,58,6,15
+2020-04-12,Metropolitan Healthcare System,General Medical Ward,562,62,6,3
+2020-04-13,Metropolitan Healthcare System,General Medical Ward,562,60,3,2
+2020-04-14,Metropolitan Healthcare System,General Medical Ward,562,68,9,0
+2020-04-15,Metropolitan Healthcare System,General Medical Ward,562,63,7,13
+2020-04-16,Metropolitan Healthcare System,General Medical Ward,562,70,12,9
+2020-04-17,Metropolitan Healthcare System,General Medical Ward,562,67,6,8
+2020-04-18,Metropolitan Healthcare System,General Medical Ward,562,66,7,8
+2020-04-19,Metropolitan Healthcare System,General Medical Ward,562,64,1,2
+2020-04-20,Metropolitan Healthcare System,General Medical Ward,562,62,0,1
+2020-04-21,Metropolitan Healthcare System,General Medical Ward,562,62,3,4
+2020-04-22,Metropolitan Healthcare System,General Medical Ward,562,58,5,7
+2020-04-23,Metropolitan Healthcare System,General Medical Ward,562,57,4,6
+2020-04-24,Metropolitan Healthcare System,General Medical Ward,562,55,3,4
+2020-04-25,Metropolitan Healthcare System,General Medical Ward,562,54,4,4
+2020-04-26,Metropolitan Healthcare System,General Medical Ward,562,57,5,2
+2020-04-27,Metropolitan Healthcare System,General Medical Ward,562,58,1,0
+2020-04-28,Metropolitan Healthcare System,General Medical Ward,562,54,2,4
+2020-04-29,Metropolitan Healthcare System,General Medical Ward,562,48,7,13
+2020-04-30,Metropolitan Healthcare System,General Medical Ward,562,41,1,6
+2020-05-01,Metropolitan Healthcare System,General Medical Ward,562,37,1,5
+2020-05-02,Metropolitan Healthcare System,General Medical Ward,562,39,3,1
+2020-05-03,Metropolitan Healthcare System,General Medical Ward,562,38,3,2
+2020-05-04,Metropolitan Healthcare System,General Medical Ward,562,38,2,0
+2020-05-05,Metropolitan Healthcare System,General Medical Ward,562,39,2,3
+2020-05-06,Metropolitan Healthcare System,General Medical Ward,562,39,1,3
+2020-05-07,Metropolitan Healthcare System,General Medical Ward,562,39,0,1
+2020-05-08,Metropolitan Healthcare System,General Medical Ward,562,35,1,5
+2020-05-09,Metropolitan Healthcare System,General Medical Ward,562,33,1,3
+2020-05-10,Metropolitan Healthcare System,General Medical Ward,562,31,0,1
+2020-05-11,Metropolitan Healthcare System,General Medical Ward,562,32,1,0
+2020-05-12,Metropolitan Healthcare System,General Medical Ward,562,31,1,3
+2020-05-13,Metropolitan Healthcare System,General Medical Ward,562,29,0,1
+2020-05-14,Metropolitan Healthcare System,General Medical Ward,562,25,1,7
+2020-05-15,Metropolitan Healthcare System,General Medical Ward,562,22,0,3
+2020-05-16,Metropolitan Healthcare System,General Medical Ward,562,21,0,2
+2020-05-17,Metropolitan Healthcare System,General Medical Ward,562,21,1,1
+2020-05-18,Metropolitan Healthcare System,General Medical Ward,562,20,0,1
+2020-05-19,Metropolitan Healthcare System,General Medical Ward,562,19,0,1
+2020-05-20,Metropolitan Healthcare System,General Medical Ward,562,19,0,1
+2020-05-21,Metropolitan Healthcare System,General Medical Ward,562,18,0,2
+2020-05-22,Metropolitan Healthcare System,General Medical Ward,562,17,0,0
+2020-05-23,Metropolitan Healthcare System,General Medical Ward,562,15,0,2
+2020-05-24,Metropolitan Healthcare System,General Medical Ward,562,14,0,0
+2020-05-25,Metropolitan Healthcare System,General Medical Ward,562,13,0,2
+2020-05-26,Metropolitan Healthcare System,General Medical Ward,562,8,0,6
+2020-05-27,Metropolitan Healthcare System,General Medical Ward,562,6,1,2
+2020-05-28,Metropolitan Healthcare System,General Medical Ward,562,5,0,1
+2020-05-29,Metropolitan Healthcare System,General Medical Ward,562,5,0,0
+2020-05-30,Metropolitan Healthcare System,General Medical Ward,562,5,0,0
+2020-05-31,Metropolitan Healthcare System,General Medical Ward,562,4,0,1
+2020-06-01,Metropolitan Healthcare System,General Medical Ward,81,4,0,0
+2020-06-02,Metropolitan Healthcare System,General Medical Ward,81,4,0,0
+2020-06-03,Metropolitan Healthcare System,General Medical Ward,81,5,0,0
+2020-06-04,Metropolitan Healthcare System,General Medical Ward,81,5,0,0
+2020-06-05,Metropolitan Healthcare System,General Medical Ward,81,6,1,0
+2020-06-06,Metropolitan Healthcare System,General Medical Ward,81,6,0,0
+2020-06-07,Metropolitan Healthcare System,General Medical Ward,81,5,0,1
+2020-06-08,Metropolitan Healthcare System,General Medical Ward,81,5,0,0
+2020-06-09,Metropolitan Healthcare System,General Medical Ward,81,6,1,0
+2020-06-10,Metropolitan Healthcare System,General Medical Ward,81,6,0,0
+2020-06-11,Metropolitan Healthcare System,General Medical Ward,81,6,0,0
+2020-06-12,Metropolitan Healthcare System,General Medical Ward,81,6,0,0
+2020-06-13,Metropolitan Healthcare System,General Medical Ward,81,6,0,0
+2020-06-14,Metropolitan Healthcare System,General Medical Ward,81,6,0,0
+2020-06-15,Metropolitan Healthcare System,General Medical Ward,81,6,1,0
+2020-06-16,Metropolitan Healthcare System,General Medical Ward,81,6,0,0
+2020-06-17,Metropolitan Healthcare System,General Medical Ward,81,6,0,0
+2020-06-18,Metropolitan Healthcare System,General Medical Ward,81,5,0,1
+2020-06-19,Metropolitan Healthcare System,General Medical Ward,81,7,2,0
+2020-06-20,Metropolitan Healthcare System,General Medical Ward,81,5,0,2
+2020-06-21,Metropolitan Healthcare System,General Medical Ward,81,5,0,0
+2020-06-22,Metropolitan Healthcare System,General Medical Ward,81,5,0,0
+2020-06-23,Metropolitan Healthcare System,General Medical Ward,81,4,0,1
+2020-06-24,Metropolitan Healthcare System,General Medical Ward,81,5,2,0
+2020-06-25,Metropolitan Healthcare System,General Medical Ward,81,5,0,0
+2020-06-26,Metropolitan Healthcare System,General Medical Ward,81,6,1,0
+2020-06-27,Metropolitan Healthcare System,General Medical Ward,81,7,0,0
+2020-06-28,Metropolitan Healthcare System,General Medical Ward,81,7,0,1
+2020-06-29,Metropolitan Healthcare System,General Medical Ward,81,8,1,0
+2020-06-30,Metropolitan Healthcare System,General Medical Ward,81,8,0,0
+2020-07-01,Metropolitan Healthcare System,General Medical Ward,81,8,0,0
+2020-07-02,Metropolitan Healthcare System,General Medical Ward,81,9,1,0
+2020-07-03,Metropolitan Healthcare System,General Medical Ward,81,10,1,0
+2020-07-04,Metropolitan Healthcare System,General Medical Ward,81,6,0,4
+2020-07-05,Metropolitan Healthcare System,General Medical Ward,81,6,1,1
+2020-07-06,Metropolitan Healthcare System,General Medical Ward,81,11,5,0
+2020-07-07,Metropolitan Healthcare System,General Medical Ward,81,12,2,1
+2020-07-08,Metropolitan Healthcare System,General Medical Ward,81,14,5,3
+2020-07-09,Metropolitan Healthcare System,General Medical Ward,81,15,2,1
+2020-07-10,Metropolitan Healthcare System,General Medical Ward,81,16,1,0
+2020-07-11,Metropolitan Healthcare System,General Medical Ward,81,16,0,0
+2020-07-12,Metropolitan Healthcare System,General Medical Ward,81,16,0,0
+2020-07-13,Metropolitan Healthcare System,General Medical Ward,81,16,1,0
+2020-07-14,Metropolitan Healthcare System,General Medical Ward,81,16,3,3
+2020-07-15,Metropolitan Healthcare System,General Medical Ward,81,14,0,1
+2020-07-16,Metropolitan Healthcare System,General Medical Ward,81,17,2,0
+2020-07-17,Metropolitan Healthcare System,General Medical Ward,81,18,2,1
+2020-07-18,Metropolitan Healthcare System,General Medical Ward,81,17,2,2
+2020-07-19,Metropolitan Healthcare System,General Medical Ward,81,17,1,0
+2020-07-20,Metropolitan Healthcare System,General Medical Ward,81,16,1,0
+2020-07-21,Metropolitan Healthcare System,General Medical Ward,81,19,6,2
+2020-07-22,Metropolitan Healthcare System,General Medical Ward,81,20,2,1
+2020-07-23,Metropolitan Healthcare System,General Medical Ward,81,22,3,1
+2020-07-24,Metropolitan Healthcare System,General Medical Ward,81,21,2,3
+2020-07-25,Metropolitan Healthcare System,General Medical Ward,81,15,1,4
+2020-07-26,Metropolitan Healthcare System,General Medical Ward,81,17,4,2
+2020-07-27,Metropolitan Healthcare System,General Medical Ward,81,17,0,1
+2020-07-28,Metropolitan Healthcare System,General Medical Ward,81,14,0,3
+2020-07-29,Metropolitan Healthcare System,General Medical Ward,81,17,4,0
+2020-07-30,Metropolitan Healthcare System,General Medical Ward,81,17,1,0
+2020-07-31,Metropolitan Healthcare System,General Medical Ward,81,19,3,0
+2020-08-01,Metropolitan Healthcare System,General Medical Ward,81,17,0,2
+2020-08-02,Metropolitan Healthcare System,General Medical Ward,81,20,1,0
+2020-08-03,Metropolitan Healthcare System,General Medical Ward,81,19,0,0
+2020-08-04,Metropolitan Healthcare System,General Medical Ward,81,20,4,2
+2020-08-05,Metropolitan Healthcare System,General Medical Ward,81,19,2,2
+2020-08-06,Metropolitan Healthcare System,General Medical Ward,81,21,3,1
+2020-08-07,Metropolitan Healthcare System,General Medical Ward,81,20,1,1
+2020-08-08,Metropolitan Healthcare System,General Medical Ward,81,18,0,1
+2020-08-09,Metropolitan Healthcare System,General Medical Ward,81,21,3,0
+2020-08-10,Metropolitan Healthcare System,General Medical Ward,81,21,2,1
+2020-08-11,Metropolitan Healthcare System,General Medical Ward,81,21,1,1
+2020-08-12,Metropolitan Healthcare System,General Medical Ward,81,21,1,1
+2020-08-13,Metropolitan Healthcare System,General Medical Ward,81,17,1,5
+2020-08-14,Metropolitan Healthcare System,General Medical Ward,81,15,3,4
+2020-08-15,Metropolitan Healthcare System,General Medical Ward,81,13,2,4
+2020-08-16,Metropolitan Healthcare System,General Medical Ward,81,14,2,1
+2020-08-17,Metropolitan Healthcare System,General Medical Ward,81,16,2,0
+2020-08-18,Metropolitan Healthcare System,General Medical Ward,81,13,0,3
+2020-08-19,Metropolitan Healthcare System,General Medical Ward,81,14,1,0
+2020-08-20,Metropolitan Healthcare System,General Medical Ward,81,15,3,3
+2020-08-21,Metropolitan Healthcare System,General Medical Ward,81,18,2,1
+2020-08-22,Metropolitan Healthcare System,General Medical Ward,81,18,2,2
+2020-08-23,Metropolitan Healthcare System,General Medical Ward,81,17,1,2
+2020-08-24,Metropolitan Healthcare System,General Medical Ward,81,17,1,1
+2020-08-25,Metropolitan Healthcare System,General Medical Ward,81,17,1,1
+2020-08-26,Metropolitan Healthcare System,General Medical Ward,81,20,4,1
+2020-08-27,Metropolitan Healthcare System,General Medical Ward,81,23,3,0
+2020-08-28,Metropolitan Healthcare System,General Medical Ward,81,21,3,4
+2020-08-29,Metropolitan Healthcare System,General Medical Ward,81,21,2,1
+2020-08-30,Metropolitan Healthcare System,General Medical Ward,81,22,1,0
+2020-08-31,Metropolitan Healthcare System,General Medical Ward,81,22,1,0
+2020-09-01,Metropolitan Healthcare System,General Medical Ward,81,23,3,3
+2020-09-02,Metropolitan Healthcare System,General Medical Ward,81,22,3,2
+2020-09-03,Metropolitan Healthcare System,General Medical Ward,81,22,3,3
+2020-09-04,Metropolitan Healthcare System,General Medical Ward,81,21,2,4
+2020-09-05,Metropolitan Healthcare System,General Medical Ward,81,19,3,5
+2020-09-06,Metropolitan Healthcare System,General Medical Ward,81,20,2,1
+2020-09-07,Metropolitan Healthcare System,General Medical Ward,81,22,5,2
+2020-09-08,Metropolitan Healthcare System,General Medical Ward,81,24,5,3
+2020-09-09,Metropolitan Healthcare System,General Medical Ward,81,23,2,3
+2020-09-10,Metropolitan Healthcare System,General Medical Ward,81,21,1,2
+2020-09-11,Metropolitan Healthcare System,General Medical Ward,81,22,1,0
+2020-09-12,Metropolitan Healthcare System,General Medical Ward,81,25,9,5
+2020-09-13,Metropolitan Healthcare System,General Medical Ward,81,31,7,0
+2020-09-14,Metropolitan Healthcare System,General Medical Ward,81,33,8,4
+2020-09-15,Metropolitan Healthcare System,General Medical Ward,81,40,9,1
+2020-09-16,Metropolitan Healthcare System,General Medical Ward,81,50,12,1
+2020-09-17,Metropolitan Healthcare System,General Medical Ward,81,51,3,1
+2020-09-18,Metropolitan Healthcare System,General Medical Ward,81,56,10,3
+2020-09-19,Metropolitan Healthcare System,General Medical Ward,106,57,7,6
+2020-09-20,Metropolitan Healthcare System,General Medical Ward,106,53,5,5
+2020-09-21,Metropolitan Healthcare System,General Medical Ward,106,56,5,1
+2020-09-22,Metropolitan Healthcare System,General Medical Ward,106,58,9,8
+2020-09-23,Metropolitan Healthcare System,General Medical Ward,106,55,8,13
+2020-09-24,Metropolitan Healthcare System,General Medical Ward,106,50,9,9
+2020-09-25,Metropolitan Healthcare System,General Medical Ward,106,44,7,10
+2020-09-26,Metropolitan Healthcare System,General Medical Ward,106,52,15,2
+2020-09-27,Metropolitan Healthcare System,General Medical Ward,106,60,19,10
+2020-09-28,Metropolitan Healthcare System,General Medical Ward,106,63,10,9
+2020-09-29,Metropolitan Healthcare System,General Medical Ward,106,68,10,5
+2020-09-30,Metropolitan Healthcare System,General Medical Ward,106,69,12,9
+2020-10-01,Metropolitan Healthcare System,General Medical Ward,159,71,18,16
+2020-10-02,Metropolitan Healthcare System,General Medical Ward,171,71,10,8
+2020-10-03,Metropolitan Healthcare System,General Medical Ward,171,79,17,7
+2020-10-04,Metropolitan Healthcare System,General Medical Ward,166,85,8,1
+2020-10-05,Metropolitan Healthcare System,General Medical Ward,166,86,14,8
+2020-10-06,Metropolitan Healthcare System,General Medical Ward,176,91,17,10
+2020-10-07,Metropolitan Healthcare System,General Medical Ward,153,100,22,11
+2020-10-08,Metropolitan Healthcare System,General Medical Ward,149,110,25,15
+2020-10-09,Metropolitan Healthcare System,General Medical Ward,159,116,20,9
+2020-10-10,Metropolitan Healthcare System,General Medical Ward,149,128,19,6
+2020-10-11,Metropolitan Healthcare System,General Medical Ward,152,131,15,6
+2020-10-12,Metropolitan Healthcare System,General Medical Ward,168,146,19,3
+2020-10-13,Metropolitan Healthcare System,General Medical Ward,182,148,30,18
+2020-10-14,Metropolitan Healthcare System,General Medical Ward,225,175,49,17
+2020-10-15,Metropolitan Healthcare System,General Medical Ward,222,182,33,20
+2020-10-16,Metropolitan Healthcare System,General Medical Ward,234,197,31,9
+2020-10-17,Metropolitan Healthcare System,General Medical Ward,243,206,44,32
+2020-10-18,Metropolitan Healthcare System,General Medical Ward,245,216,29,11
+2020-10-19,Metropolitan Healthcare System,General Medical Ward,280,235,36,9
+2020-10-20,Metropolitan Healthcare System,General Medical Ward,302,258,51,27
+2020-10-21,Metropolitan Healthcare System,General Medical Ward,341,278,60,32
+2020-10-22,Metropolitan Healthcare System,General Medical Ward,346,294,60,32
+2020-10-23,Metropolitan Healthcare System,General Medical Ward,367,328,69,28
+2020-10-24,Metropolitan Healthcare System,General Medical Ward,401,383,103,31
+2020-10-25,Metropolitan Healthcare System,General Medical Ward,464,435,89,25
+2020-10-26,Metropolitan Healthcare System,General Medical Ward,527,441,51,29
+2020-10-27,Metropolitan Healthcare System,General Medical Ward,571,472,85,43
+2020-10-28,Metropolitan Healthcare System,General Medical Ward,588,511,110,51
+2020-10-29,Metropolitan Healthcare System,General Medical Ward,628,548,103,48
+2020-10-30,Metropolitan Healthcare System,General Medical Ward,643,580,101,40
+2020-10-31,Metropolitan Healthcare System,General Medical Ward,702,656,158,67
+2020-11-01,Metropolitan Healthcare System,General Medical Ward,729,690,94,33
+2020-11-02,Metropolitan Healthcare System,General Medical Ward,788,728,115,49
+2020-11-03,Metropolitan Healthcare System,General Medical Ward,811,780,131,54
+2020-11-04,Metropolitan Healthcare System,General Medical Ward,832,824,140,63
+2020-11-05,Metropolitan Healthcare System,General Medical Ward,874,862,124,58
+2020-11-06,Metropolitan Healthcare System,General Medical Ward,924,901,160,92
+2020-11-07,Metropolitan Healthcare System,General Medical Ward,948,906,135,93
+2020-11-08,Metropolitan Healthcare System,General Medical Ward,983,949,102,42
+2020-11-09,Metropolitan Healthcare System,General Medical Ward,982,953,90,54
+2020-11-10,Metropolitan Healthcare System,General Medical Ward,1019,975,148,101
+2020-11-11,Metropolitan Healthcare System,General Medical Ward,1018,990,151,96
+2020-11-12,Metropolitan Healthcare System,General Medical Ward,1051,1010,142,93
+2020-11-13,Metropolitan Healthcare System,General Medical Ward,1056,999,98,79
+2020-11-14,Metropolitan Healthcare System,General Medical Ward,1063,1018,155,95
+2020-11-15,Metropolitan Healthcare System,General Medical Ward,1092,1060,105,44
+2020-11-16,Metropolitan Healthcare System,General Medical Ward,1099,1057,65,38
+2020-11-17,Metropolitan Healthcare System,General Medical Ward,1111,1067,127,92
+2020-11-18,Metropolitan Healthcare System,General Medical Ward,1121,1071,156,116
+2020-11-19,Metropolitan Healthcare System,General Medical Ward,1111,1033,82,88
+2020-11-20,Metropolitan Healthcare System,General Medical Ward,1103,1053,110,68
+2020-11-21,Metropolitan Healthcare System,General Medical Ward,1088,1022,115,129
+2020-11-22,Metropolitan Healthcare System,General Medical Ward,1097,1046,82,39
+2020-11-23,Metropolitan Healthcare System,General Medical Ward,1117,1091,104,31
+2020-11-24,Metropolitan Healthcare System,General Medical Ward,1117,1095,126,79
+2020-11-25,Metropolitan Healthcare System,General Medical Ward,1136,1095,143,113
+2020-11-26,Metropolitan Healthcare System,General Medical Ward,1131,1087,127,91
+2020-11-27,Metropolitan Healthcare System,General Medical Ward,1136,1118,160,101
+2020-11-28,Metropolitan Healthcare System,General Medical Ward,1115,1064,88,121
+2020-11-29,Metropolitan Healthcare System,General Medical Ward,1115,1081,112,59
+2020-11-30,Metropolitan Healthcare System,General Medical Ward,1123,1093,92,36
+2020-12-01,Metropolitan Healthcare System,General Medical Ward,1132,1089,126,81
+2020-12-02,Metropolitan Healthcare System,General Medical Ward,1124,1086,120,94
+2020-12-03,Metropolitan Healthcare System,General Medical Ward,1131,1091,107,74
+2020-12-04,Metropolitan Healthcare System,General Medical Ward,1130,1087,123,86
+2020-12-05,Metropolitan Healthcare System,General Medical Ward,1121,1073,142,122
+2020-12-06,Metropolitan Healthcare System,General Medical Ward,1131,1105,112,51
+2020-12-07,Metropolitan Healthcare System,General Medical Ward,1129,1105,82,45
+2020-12-08,Metropolitan Healthcare System,General Medical Ward,1126,1111,136,86
+2020-12-09,Metropolitan Healthcare System,General Medical Ward,1128,1084,106,104
+2020-12-10,Metropolitan Healthcare System,General Medical Ward,1121,1069,110,97
+2020-12-11,Metropolitan Healthcare System,General Medical Ward,1115,1072,157,113
+2020-12-12,Metropolitan Healthcare System,General Medical Ward,1120,1083,157,121
+2020-12-13,Metropolitan Healthcare System,General Medical Ward,1138,1114,106,52
+2020-12-14,Metropolitan Healthcare System,General Medical Ward,1137,1112,80,48
+2020-12-15,Metropolitan Healthcare System,General Medical Ward,1118,1080,115,127
+2020-12-16,Metropolitan Healthcare System,General Medical Ward,1111,1040,117,128
+2020-12-17,Metropolitan Healthcare System,General Medical Ward,1096,1021,123,116
+2020-12-18,Metropolitan Healthcare System,General Medical Ward,1093,1005,105,97
+2020-12-19,Metropolitan Healthcare System,General Medical Ward,1111,997,104,93
+2020-12-20,Metropolitan Healthcare System,General Medical Ward,1115,1013,84,41
+2020-12-21,Metropolitan Healthcare System,General Medical Ward,1131,1063,98,22
+2020-12-22,Metropolitan Healthcare System,General Medical Ward,1121,1054,134,119
+2020-12-23,Metropolitan Healthcare System,General Medical Ward,1113,1022,111,123
+2020-12-24,Metropolitan Healthcare System,General Medical Ward,1111,979,99,120
+2020-12-25,Metropolitan Healthcare System,General Medical Ward,1077,941,91,117
+2020-12-26,Metropolitan Healthcare System,General Medical Ward,1066,956,80,39
+2020-12-27,Metropolitan Healthcare System,General Medical Ward,1074,974,76,38
+2020-12-28,Metropolitan Healthcare System,General Medical Ward,1075,1014,99,37
+2020-12-29,Metropolitan Healthcare System,General Medical Ward,1067,972,135,157
+2020-12-30,Metropolitan Healthcare System,General Medical Ward,1050,962,123,98
+2020-12-31,Metropolitan Healthcare System,General Medical Ward,1049,976,124,97
+2021-01-01,Metropolitan Healthcare System,General Medical Ward,1062,921,91,129
+2021-01-02,Metropolitan Healthcare System,General Medical Ward,1045,923,65,37
+2021-01-03,Metropolitan Healthcare System,General Medical Ward,1063,983,114,29
+2021-01-04,Metropolitan Healthcare System,General Medical Ward,1064,1015,103,38
+2021-01-05,Metropolitan Healthcare System,General Medical Ward,1063,1005,112,108
+2021-01-06,Metropolitan Healthcare System,General Medical Ward,1063,995,114,106
+2021-01-07,Metropolitan Healthcare System,General Medical Ward,1055,980,95,84
+2021-01-08,Metropolitan Healthcare System,General Medical Ward,1036,969,105,93
+2021-01-09,Metropolitan Healthcare System,General Medical Ward,1026,949,108,106
+2021-01-10,Metropolitan Healthcare System,General Medical Ward,1038,990,107,38
+2021-01-11,Metropolitan Healthcare System,General Medical Ward,1039,1009,74,43
+2021-01-12,Metropolitan Healthcare System,General Medical Ward,1053,1010,131,110
+2021-01-13,Metropolitan Healthcare System,General Medical Ward,1058,1038,144,90
+2021-01-14,Metropolitan Healthcare System,General Medical Ward,1078,1067,121,80
+2021-01-15,Metropolitan Healthcare System,General Medical Ward,1070,1069,108,84
+2021-01-16,Metropolitan Healthcare System,General Medical Ward,1062,1031,103,128
+2021-01-17,Metropolitan Healthcare System,General Medical Ward,1069,1032,67,39
+2021-01-18,Metropolitan Healthcare System,General Medical Ward,1079,1053,70,31
+2021-01-19,Metropolitan Healthcare System,General Medical Ward,1067,1013,112,126
+2021-01-20,Metropolitan Healthcare System,General Medical Ward,1056,997,128,125
+2021-01-21,Metropolitan Healthcare System,General Medical Ward,1049,976,100,95
+2021-01-22,Metropolitan Healthcare System,General Medical Ward,1038,955,97,95
+2021-01-23,Metropolitan Healthcare System,General Medical Ward,1035,937,103,97
+2021-01-24,Metropolitan Healthcare System,General Medical Ward,1030,959,86,36
+2021-01-25,Metropolitan Healthcare System,General Medical Ward,1026,981,73,33
+2021-01-26,Metropolitan Healthcare System,General Medical Ward,1020,965,100,91
+2021-01-27,Metropolitan Healthcare System,General Medical Ward,1016,972,88,82
+2021-01-28,Metropolitan Healthcare System,General Medical Ward,1019,935,76,91
+2021-01-29,Metropolitan Healthcare System,General Medical Ward,1015,913,79,85
+2021-01-30,Metropolitan Healthcare System,General Medical Ward,1005,882,99,113
+2021-01-31,Metropolitan Healthcare System,General Medical Ward,1002,888,64,46
+2021-02-01,Metropolitan Healthcare System,General Medical Ward,1001,897,57,30
+2021-02-02,Metropolitan Healthcare System,General Medical Ward,977,864,75,94
+2021-02-03,Metropolitan Healthcare System,General Medical Ward,958,847,83,82
+2021-02-04,Metropolitan Healthcare System,General Medical Ward,953,824,68,75
+2021-02-05,Metropolitan Healthcare System,General Medical Ward,934,827,88,78
+2021-02-06,Metropolitan Healthcare System,General Medical Ward,886,769,76,121
+2021-02-07,Metropolitan Healthcare System,General Medical Ward,897,771,51,37
+2021-02-08,Metropolitan Healthcare System,General Medical Ward,893,786,52,25
+2021-02-09,Metropolitan Healthcare System,General Medical Ward,882,783,58,41
+2021-02-10,Metropolitan Healthcare System,General Medical Ward,850,704,56,125
+2021-02-11,Metropolitan Healthcare System,General Medical Ward,810,671,50,76
+2021-02-12,Metropolitan Healthcare System,General Medical Ward,788,635,49,73
+2021-02-13,Metropolitan Healthcare System,General Medical Ward,763,590,59,97
+2021-02-14,Metropolitan Healthcare System,General Medical Ward,755,601,46,32
+2021-02-15,Metropolitan Healthcare System,General Medical Ward,749,603,42,34
+2021-02-16,Metropolitan Healthcare System,General Medical Ward,743,564,36,78
+2021-02-17,Metropolitan Healthcare System,General Medical Ward,709,522,42,75
+2021-02-18,Metropolitan Healthcare System,General Medical Ward,648,503,43,62
+2021-02-19,Metropolitan Healthcare System,General Medical Ward,646,509,51,40
+2021-02-20,Metropolitan Healthcare System,General Medical Ward,633,470,40,78
+2021-02-21,Metropolitan Healthcare System,General Medical Ward,628,464,25,31
+2021-02-22,Metropolitan Healthcare System,General Medical Ward,613,480,39,13
+2021-02-23,Metropolitan Healthcare System,General Medical Ward,617,460,53,62
+2021-02-24,Metropolitan Healthcare System,General Medical Ward,609,441,44,56
+2021-02-25,Metropolitan Healthcare System,General Medical Ward,614,443,57,50
+2021-02-26,Metropolitan Healthcare System,General Medical Ward,603,434,39,42
+2021-02-27,Metropolitan Healthcare System,General Medical Ward,561,418,46,49
+2021-02-28,Metropolitan Healthcare System,General Medical Ward,573,436,39,16
+2021-03-01,Metropolitan Healthcare System,General Medical Ward,578,452,41,16
+2021-03-02,Metropolitan Healthcare System,General Medical Ward,577,444,58,64
+2021-03-03,Metropolitan Healthcare System,General Medical Ward,571,434,53,54
+2021-03-04,Metropolitan Healthcare System,General Medical Ward,569,425,41,42
+2021-03-05,Metropolitan Healthcare System,General Medical Ward,566,436,47,33
+2021-03-06,Metropolitan Healthcare System,General Medical Ward,549,410,45,62
+2021-03-07,Metropolitan Healthcare System,General Medical Ward,558,421,32,17
+2021-03-08,Metropolitan Healthcare System,General Medical Ward,564,436,37,14
+2021-03-09,Metropolitan Healthcare System,General Medical Ward,540,416,49,63
+2021-03-10,Metropolitan Healthcare System,General Medical Ward,516,393,38,55
+2021-03-11,Metropolitan Healthcare System,General Medical Ward,469,363,32,54
+2021-03-12,Metropolitan Healthcare System,General Medical Ward,473,353,34,42
+2021-03-13,Metropolitan Healthcare System,General Medical Ward,444,347,48,51
+2021-03-14,Metropolitan Healthcare System,General Medical Ward,447,355,30,18
+2021-03-15,Metropolitan Healthcare System,General Medical Ward,448,376,34,6
+2021-03-16,Metropolitan Healthcare System,General Medical Ward,448,368,50,59
+2021-03-17,Metropolitan Healthcare System,General Medical Ward,447,361,48,48
+2021-03-18,Metropolitan Healthcare System,General Medical Ward,436,377,43,22
+2021-03-19,Metropolitan Healthcare System,General Medical Ward,441,397,62,29
+2021-03-20,Metropolitan Healthcare System,General Medical Ward,480,370,50,71
+2021-03-21,Metropolitan Healthcare System,General Medical Ward,480,380,39,19
+2021-03-22,Metropolitan Healthcare System,General Medical Ward,478,400,43,18
+2021-03-23,Metropolitan Healthcare System,General Medical Ward,483,411,72,50
+2021-03-24,Metropolitan Healthcare System,General Medical Ward,477,401,54,52
+2021-03-25,Metropolitan Healthcare System,General Medical Ward,476,395,60,55
+2021-03-26,Metropolitan Healthcare System,General Medical Ward,546,392,41,32
+2021-03-27,Metropolitan Healthcare System,General Medical Ward,546,390,62,62
+2021-03-28,Metropolitan Healthcare System,General Medical Ward,546,394,38,29
+2021-03-29,Metropolitan Healthcare System,General Medical Ward,546,414,50,17
+2021-03-30,Metropolitan Healthcare System,General Medical Ward,546,410,66,61
+2021-03-31,Metropolitan Healthcare System,General Medical Ward,546,389,58,66
+2021-04-01,Metropolitan Healthcare System,General Medical Ward,546,410,59,34
+2021-04-02,Metropolitan Healthcare System,General Medical Ward,546,397,59,53
+2021-04-03,Metropolitan Healthcare System,General Medical Ward,546,408,71,50
+2021-04-04,Metropolitan Healthcare System,General Medical Ward,533,410,35,25
+2021-04-05,Metropolitan Healthcare System,General Medical Ward,533,430,52,23
+2021-04-06,Metropolitan Healthcare System,General Medical Ward,533,441,47,23
+2021-04-07,Metropolitan Healthcare System,General Medical Ward,533,450,71,60
+2021-04-08,Metropolitan Healthcare System,General Medical Ward,533,470,79,56
+2021-04-09,Metropolitan Healthcare System,General Medical Ward,521,479,76,54
+2021-04-10,Metropolitan Healthcare System,General Medical Ward,521,464,66,67
+2021-04-11,Metropolitan Healthcare System,General Medical Ward,521,476,60,43
+2021-04-12,Metropolitan Healthcare System,General Medical Ward,521,494,46,18
+2021-04-13,Metropolitan Healthcare System,General Medical Ward,521,471,63,79
+2021-04-14,Metropolitan Healthcare System,General Medical Ward,521,468,72,62
+2021-04-15,Metropolitan Healthcare System,General Medical Ward,521,474,64,55
+2021-04-16,Metropolitan Healthcare System,General Medical Ward,546,487,70,50
+2021-04-17,Metropolitan Healthcare System,General Medical Ward,546,478,66,70
+2021-04-18,Metropolitan Healthcare System,General Medical Ward,546,477,49,41
+2021-04-19,Metropolitan Healthcare System,General Medical Ward,546,495,42,14
+2021-04-20,Metropolitan Healthcare System,General Medical Ward,546,493,72,70
+2021-04-21,Metropolitan Healthcare System,General Medical Ward,546,476,48,62
+2021-04-22,Metropolitan Healthcare System,General Medical Ward,546,466,59,59
+2021-04-23,Metropolitan Healthcare System,General Medical Ward,574,470,79,62
+2021-04-24,Metropolitan Healthcare System,General Medical Ward,574,458,57,62
+2021-04-25,Metropolitan Healthcare System,General Medical Ward,574,473,49,32
+2021-04-26,Metropolitan Healthcare System,General Medical Ward,574,485,40,23
+2021-04-27,Metropolitan Healthcare System,General Medical Ward,574,488,71,58
+2021-04-28,Metropolitan Healthcare System,General Medical Ward,574,466,26,40
+2021-04-29,Metropolitan Healthcare System,General Medical Ward,574,479,81,59
+2021-04-30,Metropolitan Healthcare System,General Medical Ward,574,469,42,45
+2021-05-01,Metropolitan Healthcare System,General Medical Ward,574,462,73,75
+2021-05-02,Metropolitan Healthcare System,General Medical Ward,574,453,33,39
+2021-05-03,Metropolitan Healthcare System,General Medical Ward,574,461,28,19
+2021-05-04,Metropolitan Healthcare System,General Medical Ward,574,441,54,74
+2021-05-05,Metropolitan Healthcare System,General Medical Ward,574,419,45,63
+2021-05-06,Metropolitan Healthcare System,General Medical Ward,574,412,45,51
+2021-05-07,Metropolitan Healthcare System,General Medical Ward,574,397,42,52
+2021-05-08,Metropolitan Healthcare System,General Medical Ward,574,375,36,70
+2021-05-09,Metropolitan Healthcare System,General Medical Ward,574,370,31,28
+2021-05-10,Metropolitan Healthcare System,General Medical Ward,462,375,34,18
+2021-05-11,Metropolitan Healthcare System,General Medical Ward,462,346,30,59
+2021-05-12,Metropolitan Healthcare System,General Medical Ward,462,336,45,57
+2021-05-13,Metropolitan Healthcare System,General Medical Ward,462,327,36,45
+2021-05-14,Metropolitan Healthcare System,General Medical Ward,462,318,34,35
+2021-05-15,Metropolitan Healthcare System,General Medical Ward,462,300,42,58
+2021-05-16,Metropolitan Healthcare System,General Medical Ward,462,287,14,23
+2021-05-17,Metropolitan Healthcare System,General Medical Ward,380,286,10,8
+2021-05-18,Metropolitan Healthcare System,General Medical Ward,368,270,37,55
+2021-05-19,Metropolitan Healthcare System,General Medical Ward,368,258,32,42
+2021-05-20,Metropolitan Healthcare System,General Medical Ward,348,253,24,23
+2021-05-21,Metropolitan Healthcare System,General Medical Ward,348,237,21,32
+2021-05-22,Metropolitan Healthcare System,General Medical Ward,333,217,26,54
+2021-05-23,Metropolitan Healthcare System,General Medical Ward,333,208,11,20
+2021-05-24,Metropolitan Healthcare System,General Medical Ward,273,220,20,8
+2021-05-25,Metropolitan Healthcare System,General Medical Ward,263,203,20,38
+2021-05-26,Metropolitan Healthcare System,General Medical Ward,263,192,14,27
+2021-05-27,Metropolitan Healthcare System,General Medical Ward,263,186,15,24
+2021-05-28,Metropolitan Healthcare System,General Medical Ward,263,174,18,27
+2021-05-29,Metropolitan Healthcare System,General Medical Ward,263,158,18,35
+2021-05-30,Metropolitan Healthcare System,General Medical Ward,263,167,17,6
+2021-05-31,Metropolitan Healthcare System,General Medical Ward,206,173,10,6
+2021-06-01,Metropolitan Healthcare System,General Medical Ward,202,160,12,29
+2021-06-02,Metropolitan Healthcare System,General Medical Ward,194,152,15,24
+2021-06-03,Metropolitan Healthcare System,General Medical Ward,195,153,21,19
+2021-06-04,Metropolitan Healthcare System,General Medical Ward,195,146,13,19
+2021-06-05,Metropolitan Healthcare System,General Medical Ward,195,149,13,15
+2021-06-06,Metropolitan Healthcare System,General Medical Ward,195,150,14,16
+2021-06-07,Metropolitan Healthcare System,General Medical Ward,188,152,15,8
+2021-06-08,Metropolitan Healthcare System,General Medical Ward,188,144,19,26
+2021-06-09,Metropolitan Healthcare System,General Medical Ward,188,141,12,18
+2021-06-10,Metropolitan Healthcare System,General Medical Ward,188,123,7,22
+2021-06-11,Metropolitan Healthcare System,General Medical Ward,188,117,15,17
+2021-06-12,Metropolitan Healthcare System,General Medical Ward,188,94,10,34
+2021-06-13,Metropolitan Healthcare System,General Medical Ward,188,90,6,6
+2021-06-14,Metropolitan Healthcare System,General Medical Ward,188,92,3,2
+2021-06-15,Metropolitan Healthcare System,General Medical Ward,188,82,11,21
+2021-06-16,Metropolitan Healthcare System,General Medical Ward,158,83,8,8
+2021-06-17,Metropolitan Healthcare System,General Medical Ward,158,74,6,15
+2021-06-18,Metropolitan Healthcare System,General Medical Ward,143,70,7,8
+2021-06-19,Metropolitan Healthcare System,General Medical Ward,85,64,8,15
+2021-06-20,Metropolitan Healthcare System,General Medical Ward,85,65,7,6
+2021-06-21,Metropolitan Healthcare System,General Medical Ward,85,70,7,1
+2021-06-22,Metropolitan Healthcare System,General Medical Ward,85,59,4,16
+2021-06-23,Metropolitan Healthcare System,General Medical Ward,85,54,2,10
+2021-06-24,Metropolitan Healthcare System,General Medical Ward,85,52,2,5
+2021-06-25,Metropolitan Healthcare System,General Medical Ward,85,48,5,11
+2021-06-26,Metropolitan Healthcare System,General Medical Ward,85,50,5,3
+2021-06-27,Metropolitan Healthcare System,General Medical Ward,85,52,2,1
+2021-06-28,Metropolitan Healthcare System,General Medical Ward,85,52,5,6
+2021-06-29,Metropolitan Healthcare System,General Medical Ward,85,52,4,7
+2021-06-30,Metropolitan Healthcare System,General Medical Ward,85,51,2,5
+2021-07-01,Metropolitan Healthcare System,General Medical Ward,85,50,4,6
+2021-07-02,Metropolitan Healthcare System,General Medical Ward,85,48,2,4
+2021-07-03,Metropolitan Healthcare System,General Medical Ward,85,44,6,9
+2021-07-04,Metropolitan Healthcare System,General Medical Ward,85,42,2,3
+2021-07-05,Metropolitan Healthcare System,General Medical Ward,85,42,1,2
+2021-07-06,Metropolitan Healthcare System,General Medical Ward,85,44,4,2
+2021-07-07,Metropolitan Healthcare System,General Medical Ward,85,42,4,10
+2021-07-08,Metropolitan Healthcare System,General Medical Ward,70,37,3,7
+2021-07-09,Metropolitan Healthcare System,General Medical Ward,45,31,2,8
+2021-07-10,Metropolitan Healthcare System,General Medical Ward,45,33,3,1
+2021-07-11,Metropolitan Healthcare System,General Medical Ward,45,33,1,1
+2021-07-12,Metropolitan Healthcare System,General Medical Ward,45,31,0,0
+2021-07-13,Metropolitan Healthcare System,General Medical Ward,45,29,1,3
+2021-07-14,Metropolitan Healthcare System,General Medical Ward,45,24,1,6
+2021-07-15,Metropolitan Healthcare System,General Medical Ward,45,22,0,2
+2021-07-16,Metropolitan Healthcare System,General Medical Ward,45,20,2,4
+2021-07-17,Metropolitan Healthcare System,General Medical Ward,45,18,2,4
+2021-07-18,Metropolitan Healthcare System,General Medical Ward,45,19,2,1
+2021-07-19,Metropolitan Healthcare System,General Medical Ward,45,20,1,0
+2021-07-20,Metropolitan Healthcare System,General Medical Ward,45,19,1,3
+2021-07-21,Metropolitan Healthcare System,General Medical Ward,45,19,2,3
+2021-07-22,Metropolitan Healthcare System,General Medical Ward,45,20,4,3
+2021-07-23,Metropolitan Healthcare System,General Medical Ward,45,21,2,0
+2021-07-24,Metropolitan Healthcare System,General Medical Ward,45,21,4,3
+2021-07-25,Metropolitan Healthcare System,General Medical Ward,45,21,1,0
+2021-07-26,Metropolitan Healthcare System,General Medical Ward,45,21,0,0
+2021-07-27,Metropolitan Healthcare System,General Medical Ward,45,21,4,5
+2021-07-28,Metropolitan Healthcare System,General Medical Ward,45,21,1,1
+2021-07-29,Metropolitan Healthcare System,General Medical Ward,45,21,2,1
+2021-07-30,Metropolitan Healthcare System,General Medical Ward,45,21,3,2
+2021-07-31,Metropolitan Healthcare System,General Medical Ward,45,20,3,3
+2021-08-01,Metropolitan Healthcare System,General Medical Ward,45,21,1,1
+2021-08-02,Metropolitan Healthcare System,General Medical Ward,45,22,3,1
+2021-08-03,Metropolitan Healthcare System,General Medical Ward,45,21,1,2
+2021-08-04,Metropolitan Healthcare System,General Medical Ward,45,22,3,3
+2021-08-05,Metropolitan Healthcare System,General Medical Ward,45,20,4,6
+2021-08-06,Metropolitan Healthcare System,General Medical Ward,45,22,3,1
+2021-08-07,Metropolitan Healthcare System,General Medical Ward,45,24,4,0
+2021-08-08,Metropolitan Healthcare System,General Medical Ward,45,24,2,1
+2021-08-09,Metropolitan Healthcare System,General Medical Ward,45,25,1,0
+2021-08-10,Metropolitan Healthcare System,General Medical Ward,45,29,8,4
+2021-08-11,Metropolitan Healthcare System,General Medical Ward,45,29,4,4
+2021-08-12,Metropolitan Healthcare System,General Medical Ward,45,34,10,6
+2021-08-13,Metropolitan Healthcare System,General Medical Ward,45,36,6,4
+2021-08-14,Metropolitan Healthcare System,General Medical Ward,45,34,5,5
+2021-08-15,Metropolitan Healthcare System,General Medical Ward,45,34,5,4
+2021-08-16,Metropolitan Healthcare System,General Medical Ward,45,35,3,1
+2021-08-17,Metropolitan Healthcare System,General Medical Ward,45,38,5,1
+2021-08-18,Metropolitan Healthcare System,General Medical Ward,45,48,13,2
+2021-08-19,Metropolitan Healthcare System,General Medical Ward,45,46,8,7
+2021-08-20,Metropolitan Healthcare System,General Medical Ward,45,42,5,7
+2021-08-21,Metropolitan Healthcare System,General Medical Ward,45,51,18,6
+2021-08-22,Metropolitan Healthcare System,General Medical Ward,45,50,6,4
+2021-08-23,Metropolitan Healthcare System,General Medical Ward,85,58,10,0
+2021-08-24,Metropolitan Healthcare System,General Medical Ward,85,68,20,8
+2021-08-25,Metropolitan Healthcare System,General Medical Ward,85,71,16,12
+2021-08-26,Metropolitan Healthcare System,General Medical Ward,85,87,29,12
+2021-08-27,Metropolitan Healthcare System,General Medical Ward,97,97,24,10
+2021-08-28,Metropolitan Healthcare System,General Medical Ward,97,101,22,16
+2021-08-29,Metropolitan Healthcare System,General Medical Ward,97,108,16,8
+2021-08-30,Metropolitan Healthcare System,General Medical Ward,115,117,18,5
+2021-08-31,Metropolitan Healthcare System,General Medical Ward,135,117,22,16
+2021-09-01,Metropolitan Healthcare System,General Medical Ward,135,125,26,13
+2021-09-02,Metropolitan Healthcare System,General Medical Ward,135,123,24,18
+2021-09-03,Metropolitan Healthcare System,General Medical Ward,175,138,33,15
+2021-09-04,Metropolitan Healthcare System,General Medical Ward,175,147,32,21
+2021-09-05,Metropolitan Healthcare System,General Medical Ward,175,168,29,9
+2021-09-06,Metropolitan Healthcare System,General Medical Ward,175,168,17,10
+2021-09-07,Metropolitan Healthcare System,General Medical Ward,207,179,33,17
+2021-09-08,Metropolitan Healthcare System,General Medical Ward,207,185,39,22
+2021-09-09,Metropolitan Healthcare System,General Medical Ward,226,209,47,20
+2021-09-10,Metropolitan Healthcare System,General Medical Ward,247,220,35,22
+2021-09-11,Metropolitan Healthcare System,General Medical Ward,247,214,26,27
+2021-09-12,Metropolitan Healthcare System,General Medical Ward,247,227,27,9
+2021-09-13,Metropolitan Healthcare System,General Medical Ward,247,246,29,8
+2021-09-14,Metropolitan Healthcare System,General Medical Ward,296,262,45,21
+2021-09-15,Metropolitan Healthcare System,General Medical Ward,294,276,46,26
+2021-09-16,Metropolitan Healthcare System,General Medical Ward,294,263,33,32
+2021-09-17,Metropolitan Healthcare System,General Medical Ward,294,264,41,28
+2021-09-18,Metropolitan Healthcare System,General Medical Ward,386,272,35,21
+2021-09-19,Metropolitan Healthcare System,General Medical Ward,386,266,32,28
+2021-09-20,Metropolitan Healthcare System,General Medical Ward,398,266,29,20
+2021-09-21,Metropolitan Healthcare System,General Medical Ward,398,277,55,38
+2021-09-22,Metropolitan Healthcare System,General Medical Ward,398,285,47,29
+2021-09-23,Metropolitan Healthcare System,General Medical Ward,398,290,46,38
+2021-09-24,Metropolitan Healthcare System,General Medical Ward,398,301,43,25
+2021-09-25,Metropolitan Healthcare System,General Medical Ward,398,279,22,40
+2021-09-26,Metropolitan Healthcare System,General Medical Ward,398,293,36,15
+2021-09-27,Metropolitan Healthcare System,General Medical Ward,398,320,46,12
+2021-09-28,Metropolitan Healthcare System,General Medical Ward,398,315,47,45
+2021-09-29,Metropolitan Healthcare System,General Medical Ward,398,291,41,54
+2021-09-30,Metropolitan Healthcare System,General Medical Ward,408,313,49,28
+2021-10-01,Metropolitan Healthcare System,General Medical Ward,408,305,42,39
+2021-10-02,Metropolitan Healthcare System,General Medical Ward,408,302,51,44
+2021-10-03,Metropolitan Healthcare System,General Medical Ward,408,303,29,22
+2021-10-04,Metropolitan Healthcare System,General Medical Ward,395,311,24,10
+2021-10-05,Metropolitan Healthcare System,General Medical Ward,395,306,40,37
+2021-10-06,Metropolitan Healthcare System,General Medical Ward,395,287,32,50
+2021-10-07,Metropolitan Healthcare System,General Medical Ward,395,300,52,36
+2021-10-08,Metropolitan Healthcare System,General Medical Ward,395,299,35,33
+2021-10-09,Metropolitan Healthcare System,General Medical Ward,395,308,53,38
+2021-10-10,Metropolitan Healthcare System,General Medical Ward,395,300,30,30
+2021-10-11,Metropolitan Healthcare System,General Medical Ward,382,305,23,14
+2021-10-12,Metropolitan Healthcare System,General Medical Ward,357,314,47,40
+2021-10-13,Metropolitan Healthcare System,General Medical Ward,357,299,39,43
+2021-10-14,Metropolitan Healthcare System,General Medical Ward,357,290,36,46
+2021-10-15,Metropolitan Healthcare System,General Medical Ward,357,287,43,42
+2021-10-16,Metropolitan Healthcare System,General Medical Ward,357,282,47,48
+2021-10-17,Metropolitan Healthcare System,General Medical Ward,357,290,23,7
+2021-10-18,Metropolitan Healthcare System,General Medical Ward,357,299,26,16
+2021-10-19,Metropolitan Healthcare System,General Medical Ward,357,301,44,37
+2021-10-20,Metropolitan Healthcare System,General Medical Ward,357,308,58,43
+2021-10-21,Metropolitan Healthcare System,General Medical Ward,357,303,47,46
+2021-10-22,Metropolitan Healthcare System,General Medical Ward,357,319,65,38
+2021-10-23,Metropolitan Healthcare System,General Medical Ward,357,338,73,50
+2021-10-24,Metropolitan Healthcare System,General Medical Ward,370,351,43,18
+2021-10-25,Metropolitan Healthcare System,General Medical Ward,370,369,50,22
+2021-10-26,Metropolitan Healthcare System,General Medical Ward,370,382,72,45
+2021-10-27,Metropolitan Healthcare System,General Medical Ward,370,396,85,60
+2021-10-28,Metropolitan Healthcare System,General Medical Ward,370,419,87,56
+2021-10-29,Metropolitan Healthcare System,General Medical Ward,457,428,77,59
+2021-10-30,Metropolitan Healthcare System,General Medical Ward,479,440,89,71
+2021-10-31,Metropolitan Healthcare System,General Medical Ward,479,441,67,51
+2021-11-01,Metropolitan Healthcare System,General Medical Ward,479,461,58,22
+2021-11-02,Metropolitan Healthcare System,General Medical Ward,479,479,72,31
+2021-11-03,Metropolitan Healthcare System,General Medical Ward,570,516,99,46
+2021-11-04,Metropolitan Healthcare System,General Medical Ward,588,570,131,57
+2021-11-05,Metropolitan Healthcare System,General Medical Ward,588,589,106,67
+2021-11-06,Metropolitan Healthcare System,General Medical Ward,588,574,94,92
+2021-11-07,Metropolitan Healthcare System,General Medical Ward,648,617,92,34
+2021-11-08,Metropolitan Healthcare System,General Medical Ward,648,659,91,33
+2021-11-09,Metropolitan Healthcare System,General Medical Ward,693,687,103,60
+2021-11-10,Metropolitan Healthcare System,General Medical Ward,695,703,104,69
+2021-11-11,Metropolitan Healthcare System,General Medical Ward,750,714,114,73
+2021-11-12,Metropolitan Healthcare System,General Medical Ward,750,745,114,66
+2021-11-13,Metropolitan Healthcare System,General Medical Ward,837,762,117,71
+2021-11-14,Metropolitan Healthcare System,General Medical Ward,837,768,79,51
+2021-11-15,Metropolitan Healthcare System,General Medical Ward,837,780,76,46
+2021-11-16,Metropolitan Healthcare System,General Medical Ward,837,838,136,65
+2021-11-17,Metropolitan Healthcare System,General Medical Ward,997,849,126,88
+2021-11-18,Metropolitan Healthcare System,General Medical Ward,1012,851,104,72
+2021-11-19,Metropolitan Healthcare System,General Medical Ward,1012,874,106,62
+2021-11-20,Metropolitan Healthcare System,General Medical Ward,1012,842,107,106
+2021-11-21,Metropolitan Healthcare System,General Medical Ward,1012,861,82,45
+2021-11-22,Metropolitan Healthcare System,General Medical Ward,1012,886,85,32
+2021-11-23,Metropolitan Healthcare System,General Medical Ward,1012,870,119,105
+2021-11-24,Metropolitan Healthcare System,General Medical Ward,1012,888,111,85
+2021-11-25,Metropolitan Healthcare System,General Medical Ward,1012,857,98,114
+2021-11-26,Metropolitan Healthcare System,General Medical Ward,1012,848,101,92
+2021-11-27,Metropolitan Healthcare System,General Medical Ward,1012,837,93,87
+2021-11-28,Metropolitan Healthcare System,General Medical Ward,1012,856,81,39
+2021-11-29,Metropolitan Healthcare System,General Medical Ward,1012,877,75,41
+2021-11-30,Metropolitan Healthcare System,General Medical Ward,1012,851,96,108
+2021-12-01,Metropolitan Healthcare System,General Medical Ward,1012,831,93,98
+2021-12-02,Metropolitan Healthcare System,General Medical Ward,1012,813,75,80
+2021-12-03,Metropolitan Healthcare System,General Medical Ward,1012,789,85,96
+2021-12-04,Metropolitan Healthcare System,General Medical Ward,1012,765,95,107
+2021-12-05,Metropolitan Healthcare System,General Medical Ward,1012,763,58,40
+2021-12-06,Metropolitan Healthcare System,General Medical Ward,1012,784,62,32
+2021-12-07,Metropolitan Healthcare System,General Medical Ward,893,738,71,99
+2021-12-08,Metropolitan Healthcare System,General Medical Ward,893,704,71,95
+2021-12-09,Metropolitan Healthcare System,General Medical Ward,893,697,79,83
+2021-12-10,Metropolitan Healthcare System,General Medical Ward,893,673,70,85
+2021-12-11,Metropolitan Healthcare System,General Medical Ward,893,667,75,69
+2021-12-12,Metropolitan Healthcare System,General Medical Ward,893,643,36,48
+2021-12-13,Metropolitan Healthcare System,General Medical Ward,893,639,37,30
+2021-12-14,Metropolitan Healthcare System,General Medical Ward,698,581,51,97
+2021-12-15,Metropolitan Healthcare System,General Medical Ward,698,573,54,59
+2021-12-16,Metropolitan Healthcare System,General Medical Ward,698,542,49,69
+2021-12-17,Metropolitan Healthcare System,General Medical Ward,698,510,48,66
+2021-12-18,Metropolitan Healthcare System,General Medical Ward,698,483,58,82
+2021-12-19,Metropolitan Healthcare System,General Medical Ward,698,486,34,23
+2021-12-20,Metropolitan Healthcare System,General Medical Ward,698,481,34,29
+2021-12-21,Metropolitan Healthcare System,General Medical Ward,535,459,33,58
+2021-12-22,Metropolitan Healthcare System,General Medical Ward,535,443,44,54
+2021-12-23,Metropolitan Healthcare System,General Medical Ward,535,422,46,61
+2021-12-24,Metropolitan Healthcare System,General Medical Ward,535,412,48,57
+2021-12-25,Metropolitan Healthcare System,General Medical Ward,470,380,53,81
+2021-12-26,Metropolitan Healthcare System,General Medical Ward,470,382,26,20
+2021-12-27,Metropolitan Healthcare System,General Medical Ward,470,393,37,13
+2021-12-28,Metropolitan Healthcare System,General Medical Ward,470,387,56,49
+2021-12-29,Metropolitan Healthcare System,General Medical Ward,470,383,49,53
+2021-12-30,Metropolitan Healthcare System,General Medical Ward,470,387,39,30
+2021-12-31,Metropolitan Healthcare System,General Medical Ward,470,373,33,48
+2022-01-01,Metropolitan Healthcare System,General Medical Ward,442,360,44,54
+2022-01-02,Metropolitan Healthcare System,General Medical Ward,442,362,25,20
+2022-01-03,Metropolitan Healthcare System,General Medical Ward,442,377,43,17
+2022-01-04,Metropolitan Healthcare System,General Medical Ward,442,368,48,57
+2022-01-05,Metropolitan Healthcare System,General Medical Ward,442,385,54,36
+2022-01-06,Metropolitan Healthcare System,General Medical Ward,442,390,52,39
+2022-01-07,Metropolitan Healthcare System,General Medical Ward,442,392,52,46
+2022-01-08,Metropolitan Healthcare System,General Medical Ward,451,382,45,48
+2022-01-09,Metropolitan Healthcare System,General Medical Ward,451,378,34,30
+2022-01-10,Metropolitan Healthcare System,General Medical Ward,451,415,51,9
+2022-01-11,Metropolitan Healthcare System,General Medical Ward,451,393,50,65
+2022-01-12,Metropolitan Healthcare System,General Medical Ward,451,384,47,50
+2022-01-13,Metropolitan Healthcare System,General Medical Ward,459,374,54,58
+2022-01-14,Metropolitan Healthcare System,General Medical Ward,459,370,59,57
+2022-01-15,Metropolitan Healthcare System,General Medical Ward,459,361,57,62
+2022-01-16,Metropolitan Healthcare System,General Medical Ward,459,393,59,22
+2022-01-17,Metropolitan Healthcare System,General Medical Ward,459,410,40,16
+2022-01-18,Metropolitan Healthcare System,General Medical Ward,459,421,77,58
+2022-01-19,Metropolitan Healthcare System,General Medical Ward,459,412,48,50
+2022-01-20,Metropolitan Healthcare System,General Medical Ward,459,434,79,58
+2022-01-21,Metropolitan Healthcare System,General Medical Ward,459,456,78,48
+2022-01-22,Metropolitan Healthcare System,General Medical Ward,501,465,71,61
+2022-01-23,Metropolitan Healthcare System,General Medical Ward,501,472,60,35
+2022-01-24,Metropolitan Healthcare System,General Medical Ward,501,484,58,34
+2022-01-25,Metropolitan Healthcare System,General Medical Ward,568,502,100,77
+2022-01-26,Metropolitan Healthcare System,General Medical Ward,568,531,92,56
+2022-01-27,Metropolitan Healthcare System,General Medical Ward,568,560,101,61
+2022-01-28,Metropolitan Healthcare System,General Medical Ward,568,563,88,71
+2022-01-29,Metropolitan Healthcare System,General Medical Ward,568,571,105,91
+2022-01-30,Metropolitan Healthcare System,General Medical Ward,568,578,56,32
+2022-01-31,Metropolitan Healthcare System,General Medical Ward,568,633,87,20
+2022-02-01,Metropolitan Healthcare System,General Medical Ward,568,640,90,78
+2022-02-02,Metropolitan Healthcare System,General Medical Ward,568,653,121,99
+2022-02-03,Metropolitan Healthcare System,General Medical Ward,568,654,92,76
+2022-02-04,Metropolitan Healthcare System,General Medical Ward,568,646,106,87
+2022-02-05,Metropolitan Healthcare System,General Medical Ward,568,613,93,102
+2022-02-06,Metropolitan Healthcare System,General Medical Ward,568,633,78,43
+2022-02-07,Metropolitan Healthcare System,General Medical Ward,568,646,72,44
+2022-02-08,Metropolitan Healthcare System,General Medical Ward,568,663,148,105
+2022-02-09,Metropolitan Healthcare System,General Medical Ward,568,666,67,43
+2022-02-10,Metropolitan Healthcare System,General Medical Ward,568,648,94,101
+2022-02-11,Metropolitan Healthcare System,General Medical Ward,568,655,123,111
+2022-02-12,Metropolitan Healthcare System,General Medical Ward,568,640,114,117
+2022-02-13,Metropolitan Healthcare System,General Medical Ward,568,649,62,48
+2022-02-14,Metropolitan Healthcare System,General Medical Ward,568,658,53,24
+2022-02-15,Metropolitan Healthcare System,General Medical Ward,568,640,121,123
+2022-02-16,Metropolitan Healthcare System,General Medical Ward,568,631,85,85
+2022-02-17,Metropolitan Healthcare System,General Medical Ward,568,617,74,79
+2022-02-18,Metropolitan Healthcare System,General Medical Ward,568,591,83,94
+2022-02-19,Metropolitan Healthcare System,General Medical Ward,568,580,98,103
+2022-02-20,Metropolitan Healthcare System,General Medical Ward,568,593,63,31
+2022-02-21,Metropolitan Healthcare System,General Medical Ward,568,590,44,27
+2022-02-22,Metropolitan Healthcare System,General Medical Ward,568,582,83,78
+2022-02-23,Metropolitan Healthcare System,General Medical Ward,568,547,59,80
+2022-02-24,Metropolitan Healthcare System,General Medical Ward,568,526,42,56
+2022-02-25,Metropolitan Healthcare System,General Medical Ward,568,478,54,90
+2022-02-26,Metropolitan Healthcare System,General Medical Ward,568,432,39,84
+2022-02-27,Metropolitan Healthcare System,General Medical Ward,568,418,31,28
+2022-02-28,Metropolitan Healthcare System,General Medical Ward,568,416,21,13
+2022-03-01,Metropolitan Healthcare System,General Medical Ward,568,395,50,70
+2022-03-02,Metropolitan Healthcare System,General Medical Ward,455,380,51,64
+2022-03-03,Metropolitan Healthcare System,General Medical Ward,455,350,38,65
+2022-03-04,Metropolitan Healthcare System,General Medical Ward,455,324,38,62
+2022-03-05,Metropolitan Healthcare System,General Medical Ward,455,291,29,54
+2022-03-06,Metropolitan Healthcare System,General Medical Ward,455,294,25,13
+2022-03-07,Metropolitan Healthcare System,General Medical Ward,455,303,19,7
+2022-03-08,Metropolitan Healthcare System,General Medical Ward,318,288,36,41
+2022-03-09,Metropolitan Healthcare System,General Medical Ward,318,271,42,50
+2022-03-10,Metropolitan Healthcare System,General Medical Ward,318,255,38,49
+2022-03-11,Metropolitan Healthcare System,General Medical Ward,318,255,35,38
+2022-03-12,Metropolitan Healthcare System,General Medical Ward,318,253,37,39
+2022-03-13,Metropolitan Healthcare System,General Medical Ward,318,255,18,10
+2022-03-14,Metropolitan Healthcare System,General Medical Ward,318,253,15,16
+2022-03-15,Metropolitan Healthcare System,General Medical Ward,318,236,27,40
+2022-03-16,Metropolitan Healthcare System,General Medical Ward,263,230,33,40
+2022-03-17,Metropolitan Healthcare System,General Medical Ward,263,222,29,36
+2022-03-18,Metropolitan Healthcare System,General Medical Ward,263,216,33,34
+2022-03-19,Metropolitan Healthcare System,General Medical Ward,263,222,43,32
+2022-03-20,Metropolitan Healthcare System,General Medical Ward,263,227,22,14
+2022-03-21,Metropolitan Healthcare System,General Medical Ward,263,239,19,0
+2022-03-22,Metropolitan Healthcare System,General Medical Ward,226,241,39,37
+2022-03-23,Metropolitan Healthcare System,General Medical Ward,226,235,32,39
+2022-03-24,Metropolitan Healthcare System,General Medical Ward,226,235,34,29
+2022-03-25,Metropolitan Healthcare System,General Medical Ward,226,243,42,27
+2022-03-26,Metropolitan Healthcare System,General Medical Ward,226,227,29,42
+2022-03-27,Metropolitan Healthcare System,General Medical Ward,226,242,28,6
+2022-03-28,Metropolitan Healthcare System,General Medical Ward,226,252,22,6
+2022-03-29,Metropolitan Healthcare System,General Medical Ward,226,248,39,42
+2022-03-30,Metropolitan Healthcare System,General Medical Ward,226,250,32,33
+2022-03-31,Metropolitan Healthcare System,General Medical Ward,226,255,41,37
+2022-04-01,Metropolitan Healthcare System,General Medical Ward,226,246,29,34
+2022-04-02,Metropolitan Healthcare System,General Medical Ward,226,226,29,49
+2022-04-03,Metropolitan Healthcare System,General Medical Ward,226,235,28,15
+2022-04-04,Metropolitan Healthcare System,General Medical Ward,226,252,27,7
+2022-04-05,Metropolitan Healthcare System,General Medical Ward,226,235,26,38
+2022-04-06,Metropolitan Healthcare System,General Medical Ward,226,230,28,25
+2022-04-07,Metropolitan Healthcare System,General Medical Ward,226,230,39,35
+2022-04-08,Metropolitan Healthcare System,General Medical Ward,226,234,32,24
+2022-04-09,Metropolitan Healthcare System,General Medical Ward,226,231,34,34
+2022-04-10,Metropolitan Healthcare System,General Medical Ward,226,234,20,8
+2022-04-11,Metropolitan Healthcare System,General Medical Ward,226,236,14,12
+2022-04-12,Metropolitan Healthcare System,General Medical Ward,211,211,22,51
+2022-04-13,Metropolitan Healthcare System,General Medical Ward,211,197,18,29
+2022-04-14,Metropolitan Healthcare System,General Medical Ward,211,194,22,20
+2022-04-15,Metropolitan Healthcare System,General Medical Ward,211,186,21,26
+2022-04-16,Metropolitan Healthcare System,General Medical Ward,211,176,28,38
+2022-04-17,Metropolitan Healthcare System,General Medical Ward,211,178,16,11
+2022-04-18,Metropolitan Healthcare System,General Medical Ward,211,172,15,18
+2022-04-19,Metropolitan Healthcare System,General Medical Ward,211,178,14,4
+2022-04-20,Metropolitan Healthcare System,General Medical Ward,211,173,25,29
+2022-04-21,Metropolitan Healthcare System,General Medical Ward,211,160,18,29
+2022-04-22,Metropolitan Healthcare System,General Medical Ward,211,151,26,34
+2022-04-23,Metropolitan Healthcare System,General Medical Ward,211,139,22,26
+2022-04-24,Metropolitan Healthcare System,General Medical Ward,211,135,13,12
+2022-04-25,Metropolitan Healthcare System,General Medical Ward,125,136,11,9
+2022-04-26,Metropolitan Healthcare System,General Medical Ward,125,142,34,26
+2022-04-27,Metropolitan Healthcare System,General Medical Ward,125,127,25,40
+2022-04-28,Metropolitan Healthcare System,General Medical Ward,125,134,14,8
+2022-04-29,Metropolitan Healthcare System,General Medical Ward,125,122,23,36
+2022-04-30,Metropolitan Healthcare System,General Medical Ward,125,125,19,16
+2022-05-01,Metropolitan Healthcare System,General Medical Ward,125,121,6,8
+2022-05-02,Metropolitan Healthcare System,General Medical Ward,125,131,12,2
+2022-05-03,Metropolitan Healthcare System,General Medical Ward,125,137,14,5
+2022-05-04,Metropolitan Healthcare System,General Medical Ward,125,134,28,27
+2022-05-05,Metropolitan Healthcare System,General Medical Ward,125,117,12,27
+2022-05-06,Metropolitan Healthcare System,General Medical Ward,125,110,7,15
+2022-05-07,Metropolitan Healthcare System,General Medical Ward,125,113,21,14
+2022-05-08,Metropolitan Healthcare System,General Medical Ward,125,114,5,3
+2022-05-09,Metropolitan Healthcare System,General Medical Ward,125,115,10,5
+2022-05-10,Metropolitan Healthcare System,General Medical Ward,125,109,12,17
+2022-05-11,Metropolitan Healthcare System,General Medical Ward,125,96,7,20
+2022-05-12,Metropolitan Healthcare System,General Medical Ward,125,96,10,13
+2022-05-13,Metropolitan Healthcare System,General Medical Ward,125,100,13,8
+2022-05-14,Metropolitan Healthcare System,General Medical Ward,125,88,7,21
+2022-05-15,Metropolitan Healthcare System,General Medical Ward,125,88,3,1
+2022-05-16,Metropolitan Healthcare System,General Medical Ward,125,88,6,5
+2022-05-17,Metropolitan Healthcare System,General Medical Ward,125,71,4,20
+2022-05-18,Metropolitan Healthcare System,General Medical Ward,125,63,3,11
+2022-05-19,Metropolitan Healthcare System,General Medical Ward,125,59,7,10
+2022-05-20,Metropolitan Healthcare System,General Medical Ward,125,53,6,12
+2022-05-21,Metropolitan Healthcare System,General Medical Ward,125,51,5,8
+2022-05-22,Metropolitan Healthcare System,General Medical Ward,125,54,4,1
+2022-05-23,Metropolitan Healthcare System,General Medical Ward,125,54,2,0
+2022-05-24,Metropolitan Healthcare System,General Medical Ward,125,53,7,8
+2022-05-25,Metropolitan Healthcare System,General Medical Ward,125,49,5,9
+2022-05-26,Metropolitan Healthcare System,General Medical Ward,125,44,4,6
+2022-05-27,Metropolitan Healthcare System,General Medical Ward,125,45,5,4
+2022-05-28,Metropolitan Healthcare System,General Medical Ward,125,50,6,0
+2022-05-29,Metropolitan Healthcare System,General Medical Ward,125,50,3,3
+2022-05-30,Metropolitan Healthcare System,General Medical Ward,125,52,6,2
+2022-05-31,Metropolitan Healthcare System,General Medical Ward,125,48,3,6
+2022-06-01,Metropolitan Healthcare System,General Medical Ward,125,49,11,8
+2022-06-02,Metropolitan Healthcare System,General Medical Ward,125,53,6,2
+2022-06-03,Metropolitan Healthcare System,General Medical Ward,125,41,3,14
+2022-06-04,Metropolitan Healthcare System,General Medical Ward,125,39,3,4
+2022-06-05,Metropolitan Healthcare System,General Medical Ward,125,40,2,0
+2022-06-06,Metropolitan Healthcare System,General Medical Ward,65,44,5,1
+2022-06-07,Metropolitan Healthcare System,General Medical Ward,65,35,1,10
+2022-06-08,Metropolitan Healthcare System,General Medical Ward,65,34,4,5
+2022-06-09,Metropolitan Healthcare System,General Medical Ward,65,38,8,3
+2022-06-10,Metropolitan Healthcare System,General Medical Ward,65,37,4,5
+2022-06-11,Metropolitan Healthcare System,General Medical Ward,65,36,2,3
+2022-06-12,Metropolitan Healthcare System,General Medical Ward,65,38,5,3
+2022-06-13,Metropolitan Healthcare System,General Medical Ward,65,40,2,0
+2022-06-14,Metropolitan Healthcare System,General Medical Ward,65,40,4,2
+2022-06-15,Metropolitan Healthcare System,General Medical Ward,65,43,4,1
+2022-06-16,Metropolitan Healthcare System,General Medical Ward,65,46,7,4
+2022-06-17,Metropolitan Healthcare System,General Medical Ward,65,46,4,3
+2022-06-18,Metropolitan Healthcare System,General Medical Ward,65,47,6,6
+2022-06-19,Metropolitan Healthcare System,General Medical Ward,65,47,3,3
+2022-06-20,Metropolitan Healthcare System,General Medical Ward,65,46,0,1
+2022-06-21,Metropolitan Healthcare System,General Medical Ward,65,43,2,5
+2022-06-22,Metropolitan Healthcare System,General Medical Ward,65,39,1,2
+2022-06-23,Metropolitan Healthcare System,General Medical Ward,65,43,13,7
+2022-06-24,Metropolitan Healthcare System,General Medical Ward,65,49,11,4
+2022-06-25,Metropolitan Healthcare System,General Medical Ward,65,52,11,8
+2022-06-26,Metropolitan Healthcare System,General Medical Ward,65,51,6,6
+2022-06-27,Metropolitan Healthcare System,General Medical Ward,65,48,4,6
+2022-06-28,Metropolitan Healthcare System,General Medical Ward,65,48,8,5
+2022-06-29,Metropolitan Healthcare System,General Medical Ward,65,47,10,12
+2022-06-30,Metropolitan Healthcare System,General Medical Ward,65,72,31,6
+2022-07-01,Metropolitan Healthcare System,General Medical Ward,65,76,14,10
+2022-07-02,Metropolitan Healthcare System,General Medical Ward,65,70,12,15
+2022-07-03,Metropolitan Healthcare System,General Medical Ward,65,71,6,4
+2022-07-04,Metropolitan Healthcare System,General Medical Ward,65,77,10,3
+2022-07-05,Metropolitan Healthcare System,General Medical Ward,65,83,17,11
+2022-07-06,Metropolitan Healthcare System,General Medical Ward,65,81,6,8
+2022-07-07,Metropolitan Healthcare System,General Medical Ward,65,95,18,4
+2022-07-08,Metropolitan Healthcare System,General Medical Ward,65,86,11,16
+2022-07-09,Metropolitan Healthcare System,General Medical Ward,65,82,9,14
+2022-07-10,Metropolitan Healthcare System,General Medical Ward,40,84,13,8
+2022-07-11,Metropolitan Healthcare System,General Medical Ward,40,94,14,2
+2022-07-12,Metropolitan Healthcare System,General Medical Ward,40,90,10,14
+2022-07-13,Metropolitan Healthcare System,General Medical Ward,60,118,39,9
+2022-07-14,Metropolitan Healthcare System,General Medical Ward,60,112,17,23
+2022-07-15,Metropolitan Healthcare System,General Medical Ward,60,117,28,20
+2022-07-16,Metropolitan Healthcare System,General Medical Ward,60,111,17,21
+2022-07-17,Metropolitan Healthcare System,General Medical Ward,60,129,25,6
+2022-07-18,Metropolitan Healthcare System,General Medical Ward,60,139,22,7
+2022-07-19,Metropolitan Healthcare System,General Medical Ward,325,137,33,37
+2022-07-20,Metropolitan Healthcare System,General Medical Ward,325,136,19,16
+2022-07-21,Metropolitan Healthcare System,General Medical Ward,325,126,13,21
+2022-07-22,Metropolitan Healthcare System,General Medical Ward,325,132,23,16
+2022-07-23,Metropolitan Healthcare System,General Medical Ward,325,127,15,16
+2022-07-24,Metropolitan Healthcare System,General Medical Ward,325,137,14,2
+2022-07-25,Metropolitan Healthcare System,General Medical Ward,325,141,17,7
+2022-07-26,Metropolitan Healthcare System,General Medical Ward,325,123,15,33
+2022-07-27,Metropolitan Healthcare System,General Medical Ward,325,131,22,13
+2022-07-28,Metropolitan Healthcare System,General Medical Ward,325,127,12,15
+2022-07-29,Metropolitan Healthcare System,General Medical Ward,325,124,15,16
+2022-07-30,Metropolitan Healthcare System,General Medical Ward,325,115,12,20
+2022-07-31,Metropolitan Healthcare System,General Medical Ward,325,113,14,12
+2022-08-01,Metropolitan Healthcare System,General Medical Ward,325,119,15,6
+2022-08-02,Metropolitan Healthcare System,General Medical Ward,325,122,24,18
+2022-08-03,Metropolitan Healthcare System,General Medical Ward,325,124,17,13
+2022-08-04,Metropolitan Healthcare System,General Medical Ward,325,121,20,18
+2022-08-05,Metropolitan Healthcare System,General Medical Ward,325,129,22,16
+2022-08-06,Metropolitan Healthcare System,General Medical Ward,325,125,14,15
+2022-08-07,Metropolitan Healthcare System,General Medical Ward,325,127,8,9
+2022-08-08,Metropolitan Healthcare System,General Medical Ward,325,134,19,7
+2022-08-09,Metropolitan Healthcare System,General Medical Ward,325,126,19,20
+2022-08-10,Metropolitan Healthcare System,General Medical Ward,325,126,25,22
+2022-08-11,Metropolitan Healthcare System,General Medical Ward,325,131,21,14
+2022-08-12,Metropolitan Healthcare System,General Medical Ward,325,135,18,10
+2022-08-13,Metropolitan Healthcare System,General Medical Ward,325,124,13,21
+2022-08-14,Metropolitan Healthcare System,General Medical Ward,325,126,8,5
+2022-08-15,Metropolitan Healthcare System,General Medical Ward,325,120,9,10
+2022-08-16,Metropolitan Healthcare System,General Medical Ward,325,133,16,2
+2022-08-17,Metropolitan Healthcare System,General Medical Ward,325,132,21,19
+2022-08-18,Metropolitan Healthcare System,General Medical Ward,325,127,15,23
+2022-08-19,Metropolitan Healthcare System,General Medical Ward,325,125,13,11
+2022-08-20,Metropolitan Healthcare System,General Medical Ward,325,126,18,18
+2022-08-21,Metropolitan Healthcare System,General Medical Ward,325,130,12,7
+2022-08-22,Metropolitan Healthcare System,General Medical Ward,325,128,8,10
+2022-08-23,Metropolitan Healthcare System,General Medical Ward,325,95,18,43
+2022-08-24,Metropolitan Healthcare System,General Medical Ward,325,97,17,13
+2022-08-25,Metropolitan Healthcare System,General Medical Ward,325,95,13,14
+2022-08-26,Metropolitan Healthcare System,General Medical Ward,325,96,12,8
+2022-08-27,Metropolitan Healthcare System,General Medical Ward,325,90,17,19
+2022-08-28,Metropolitan Healthcare System,General Medical Ward,325,91,9,5
+2022-08-29,Metropolitan Healthcare System,General Medical Ward,325,101,21,7
+2022-08-30,Metropolitan Healthcare System,General Medical Ward,325,102,18,17
+2022-08-31,Metropolitan Healthcare System,General Medical Ward,325,98,11,16
+2022-09-01,Metropolitan Healthcare System,General Medical Ward,325,98,15,14
+2022-09-02,Metropolitan Healthcare System,General Medical Ward,325,98,12,11
+2022-09-03,Metropolitan Healthcare System,General Medical Ward,325,91,13,17
+2022-09-04,Metropolitan Healthcare System,General Medical Ward,325,92,11,10
+2022-09-05,Metropolitan Healthcare System,General Medical Ward,325,94,11,8
+2022-09-06,Metropolitan Healthcare System,General Medical Ward,325,92,6,9
+2022-09-07,Metropolitan Healthcare System,General Medical Ward,325,89,9,12
+2022-09-08,Metropolitan Healthcare System,General Medical Ward,325,88,13,14
+2022-09-09,Metropolitan Healthcare System,General Medical Ward,325,83,8,10
+2022-09-10,Metropolitan Healthcare System,General Medical Ward,325,80,13,14
+2022-09-11,Metropolitan Healthcare System,General Medical Ward,325,89,13,3
+2022-09-12,Metropolitan Healthcare System,General Medical Ward,325,93,11,5
+2022-09-13,Metropolitan Healthcare System,General Medical Ward,325,99,18,15
+2022-09-14,Metropolitan Healthcare System,General Medical Ward,325,98,13,10
+2022-09-15,Metropolitan Healthcare System,General Medical Ward,325,92,12,14
+2022-09-16,Metropolitan Healthcare System,General Medical Ward,325,95,15,11
+2022-09-17,Metropolitan Healthcare System,General Medical Ward,325,94,16,16
+2022-09-18,Metropolitan Healthcare System,General Medical Ward,325,94,5,4
+2022-09-19,Metropolitan Healthcare System,General Medical Ward,325,98,6,2
+2022-09-20,Metropolitan Healthcare System,General Medical Ward,325,102,18,14
+2022-09-21,Metropolitan Healthcare System,General Medical Ward,325,93,10,16
+2022-09-22,Metropolitan Healthcare System,General Medical Ward,325,100,17,7
+2022-09-23,Metropolitan Healthcare System,General Medical Ward,325,92,6,13
+2022-09-24,Metropolitan Healthcare System,General Medical Ward,325,86,11,14
+2022-09-25,Metropolitan Healthcare System,General Medical Ward,325,93,12,5
+2022-09-26,Metropolitan Healthcare System,General Medical Ward,325,98,10,2
+2022-09-27,Metropolitan Healthcare System,General Medical Ward,325,103,20,11
+2022-09-28,Metropolitan Healthcare System,General Medical Ward,325,112,24,15
+2022-09-29,Metropolitan Healthcare System,General Medical Ward,325,109,24,18
+2022-09-30,Metropolitan Healthcare System,General Medical Ward,325,109,25,24
+2022-10-01,Metropolitan Healthcare System,General Medical Ward,319,121,30,17
+2022-10-02,Metropolitan Healthcare System,General Medical Ward,319,120,8,5
+2022-10-03,Metropolitan Healthcare System,General Medical Ward,319,123,14,8
+2022-10-04,Metropolitan Healthcare System,General Medical Ward,319,114,22,27
+2022-10-05,Metropolitan Healthcare System,General Medical Ward,319,112,20,18
+2022-10-06,Metropolitan Healthcare System,General Medical Ward,319,114,23,23
+2022-10-07,Metropolitan Healthcare System,General Medical Ward,400,117,17,11
+2022-10-08,Metropolitan Healthcare System,General Medical Ward,400,118,25,24
+2022-10-09,Metropolitan Healthcare System,General Medical Ward,400,122,11,7
+2022-10-10,Metropolitan Healthcare System,General Medical Ward,400,130,19,5
+2022-10-11,Metropolitan Healthcare System,General Medical Ward,400,136,31,23
+2022-10-12,Metropolitan Healthcare System,General Medical Ward,400,129,15,17
+2022-10-13,Metropolitan Healthcare System,General Medical Ward,400,128,15,16
+2022-10-14,Metropolitan Healthcare System,General Medical Ward,400,114,12,32
+2022-10-15,Metropolitan Healthcare System,General Medical Ward,400,111,16,13
+2022-10-16,Metropolitan Healthcare System,General Medical Ward,400,110,11,8
+2022-10-17,Metropolitan Healthcare System,General Medical Ward,400,113,10,4
+2022-10-18,Metropolitan Healthcare System,General Medical Ward,400,108,12,15
+2022-10-19,Metropolitan Healthcare System,General Medical Ward,400,102,14,16
+2022-10-20,Metropolitan Healthcare System,General Medical Ward,400,112,19,9
+2022-10-21,Metropolitan Healthcare System,General Medical Ward,400,97,8,20
+2022-10-22,Metropolitan Healthcare System,General Medical Ward,400,96,9,10
+2022-10-23,Metropolitan Healthcare System,General Medical Ward,400,100,14,8
+2022-10-24,Metropolitan Healthcare System,General Medical Ward,400,99,8,6
+2022-10-25,Metropolitan Healthcare System,General Medical Ward,400,108,14,6
+2022-10-26,Metropolitan Healthcare System,General Medical Ward,400,98,12,20
+2022-10-27,Metropolitan Healthcare System,General Medical Ward,400,106,23,15
+2022-10-28,Metropolitan Healthcare System,General Medical Ward,400,101,12,12
+2022-10-29,Metropolitan Healthcare System,General Medical Ward,400,91,14,22
+2022-10-30,Metropolitan Healthcare System,General Medical Ward,400,78,8,22
+2022-10-31,Metropolitan Healthcare System,General Medical Ward,400,72,10,14
+2022-11-01,Metropolitan Healthcare System,General Medical Ward,400,75,11,6
+2022-11-02,Metropolitan Healthcare System,General Medical Ward,400,78,7,4
+2022-11-03,Metropolitan Healthcare System,General Medical Ward,400,80,19,17
+2022-11-04,Metropolitan Healthcare System,General Medical Ward,400,84,20,14
+2022-11-05,Metropolitan Healthcare System,General Medical Ward,400,70,12,24
+2022-11-06,Metropolitan Healthcare System,General Medical Ward,310,80,15,3
+2022-11-07,Metropolitan Healthcare System,General Medical Ward,310,76,11,9
+2022-11-08,Metropolitan Healthcare System,General Medical Ward,310,69,7,13
+2022-11-09,Metropolitan Healthcare System,General Medical Ward,310,60,12,18
+2022-11-10,Metropolitan Healthcare System,General Medical Ward,275,59,22,17
+2022-11-11,Metropolitan Healthcare System,General Medical Ward,275,50,11,20
+2022-11-12,Metropolitan Healthcare System,General Medical Ward,275,55,18,13
+2022-11-13,Metropolitan Healthcare System,General Medical Ward,275,59,10,4
+2022-11-14,Metropolitan Healthcare System,General Medical Ward,275,60,10,4
+2022-11-15,Metropolitan Healthcare System,General Medical Ward,275,61,13,14
+2022-11-16,Metropolitan Healthcare System,General Medical Ward,275,64,15,13
+2022-11-17,Metropolitan Healthcare System,General Medical Ward,275,60,11,12
+2022-11-18,Metropolitan Healthcare System,General Medical Ward,275,62,15,11
+2022-11-19,Metropolitan Healthcare System,General Medical Ward,275,63,21,19
+2022-11-20,Metropolitan Healthcare System,General Medical Ward,275,64,8,6
+2022-11-21,Metropolitan Healthcare System,General Medical Ward,275,63,3,2
+2022-11-22,Metropolitan Healthcare System,General Medical Ward,275,55,5,10
+2022-11-23,Metropolitan Healthcare System,General Medical Ward,275,62,18,10
+2022-11-24,Metropolitan Healthcare System,General Medical Ward,275,58,12,8
+2022-11-25,Metropolitan Healthcare System,General Medical Ward,275,67,29,16
+2022-11-26,Metropolitan Healthcare System,General Medical Ward,275,70,13,10
+2022-11-27,Metropolitan Healthcare System,General Medical Ward,275,76,18,10
+2022-11-28,Metropolitan Healthcare System,General Medical Ward,275,74,6,7
+2022-11-29,Metropolitan Healthcare System,General Medical Ward,275,67,14,19
+2022-11-30,Metropolitan Healthcare System,General Medical Ward,275,71,22,16
+2022-12-01,Metropolitan Healthcare System,General Medical Ward,275,72,13,10
+2022-12-02,Metropolitan Healthcare System,General Medical Ward,275,78,13,8
+2022-12-03,Metropolitan Healthcare System,General Medical Ward,275,79,14,11
+2022-12-04,Metropolitan Healthcare System,General Medical Ward,275,89,16,5
+2022-12-05,Metropolitan Healthcare System,General Medical Ward,275,90,9,4
+2022-12-06,Metropolitan Healthcare System,General Medical Ward,275,92,21,19
+2022-12-07,Metropolitan Healthcare System,General Medical Ward,275,89,22,25
+2022-12-08,Metropolitan Healthcare System,General Medical Ward,275,91,25,21
+2022-12-09,Metropolitan Healthcare System,General Medical Ward,275,97,23,17
+2022-12-10,Metropolitan Healthcare System,General Medical Ward,275,95,9,8
+2022-12-11,Metropolitan Healthcare System,General Medical Ward,275,100,19,8
+2022-12-12,Metropolitan Healthcare System,General Medical Ward,275,101,9,7
+2022-12-13,Metropolitan Healthcare System,General Medical Ward,275,102,28,25
+2022-12-14,Metropolitan Healthcare System,General Medical Ward,275,97,27,26
+2022-12-15,Metropolitan Healthcare System,General Medical Ward,275,96,23,19
+2022-12-16,Metropolitan Healthcare System,General Medical Ward,275,104,39,28
+2022-12-17,Metropolitan Healthcare System,General Medical Ward,400,107,27,23
+2022-12-18,Metropolitan Healthcare System,General Medical Ward,400,104,10,12
+2022-12-19,Metropolitan Healthcare System,General Medical Ward,400,103,15,9
+2022-12-20,Metropolitan Healthcare System,General Medical Ward,400,94,25,30
+2022-12-21,Metropolitan Healthcare System,General Medical Ward,400,96,27,22
+2022-12-22,Metropolitan Healthcare System,General Medical Ward,400,96,17,16
+2022-12-23,Metropolitan Healthcare System,General Medical Ward,400,88,23,25
+2022-12-24,Metropolitan Healthcare System,General Medical Ward,400,80,20,28
+2022-12-25,Metropolitan Healthcare System,General Medical Ward,400,86,15,7
+2022-12-26,Metropolitan Healthcare System,General Medical Ward,400,90,12,7
+2022-12-27,Metropolitan Healthcare System,General Medical Ward,400,90,18,13
+2022-12-28,Metropolitan Healthcare System,General Medical Ward,400,87,21,21
+2022-12-29,Metropolitan Healthcare System,General Medical Ward,400,96,36,25
+2022-12-30,Metropolitan Healthcare System,General Medical Ward,400,98,15,11
+2022-12-31,Metropolitan Healthcare System,General Medical Ward,400,91,32,35
+2023-01-01,Metropolitan Healthcare System,General Medical Ward,400,91,7,6
+2023-01-02,Metropolitan Healthcare System,General Medical Ward,400,94,10,5
+2023-01-03,Metropolitan Healthcare System,General Medical Ward,400,96,11,7
+2023-01-04,Metropolitan Healthcare System,General Medical Ward,400,92,29,22
+2023-01-05,Metropolitan Healthcare System,General Medical Ward,400,92,26,31
+2023-01-06,Metropolitan Healthcare System,General Medical Ward,400,91,18,16
+2023-01-07,Metropolitan Healthcare System,General Medical Ward,400,90,19,19
+2023-01-08,Metropolitan Healthcare System,General Medical Ward,400,92,10,7
+2023-01-09,Metropolitan Healthcare System,General Medical Ward,400,93,11,6
+2023-01-10,Metropolitan Healthcare System,General Medical Ward,400,91,18,21
+2023-01-11,Metropolitan Healthcare System,General Medical Ward,400,90,13,14
+2023-01-12,Metropolitan Healthcare System,General Medical Ward,400,86,22,20
+2023-01-13,Metropolitan Healthcare System,General Medical Ward,400,76,11,21
+2023-01-14,Metropolitan Healthcare System,General Medical Ward,400,72,18,21
+2023-01-15,Metropolitan Healthcare System,General Medical Ward,400,72,1,1
+2023-01-16,Metropolitan Healthcare System,General Medical Ward,400,74,6,6
+2023-01-17,Metropolitan Healthcare System,General Medical Ward,400,70,19,19
+2023-01-18,Metropolitan Healthcare System,General Medical Ward,400,71,10,8
+2023-01-19,Metropolitan Healthcare System,General Medical Ward,400,62,14,22
+2023-01-20,Metropolitan Healthcare System,General Medical Ward,400,62,12,13
+2023-01-21,Metropolitan Healthcare System,General Medical Ward,400,61,6,6
+2023-01-22,Metropolitan Healthcare System,General Medical Ward,400,62,2,2
+2023-01-23,Metropolitan Healthcare System,General Medical Ward,400,62,5,2
+2023-01-24,Metropolitan Healthcare System,General Medical Ward,400,55,8,13
+2023-01-25,Metropolitan Healthcare System,General Medical Ward,400,53,6,6
+2023-01-26,Metropolitan Healthcare System,General Medical Ward,400,50,10,10
+2023-01-27,Metropolitan Healthcare System,General Medical Ward,400,41,4,12
+2023-01-28,Metropolitan Healthcare System,General Medical Ward,400,48,11,3
+2023-01-29,Metropolitan Healthcare System,General Medical Ward,400,48,1,1
+2023-01-30,Metropolitan Healthcare System,General Medical Ward,400,51,4,2
+2023-01-31,Metropolitan Healthcare System,General Medical Ward,400,41,4,16
+2023-02-01,Metropolitan Healthcare System,General Medical Ward,400,32,5,15
+2023-02-02,Metropolitan Healthcare System,General Medical Ward,400,33,9,6
+2023-02-03,Metropolitan Healthcare System,General Medical Ward,400,32,3,4
+2023-02-04,Metropolitan Healthcare System,General Medical Ward,400,27,6,12
+2023-02-05,Metropolitan Healthcare System,General Medical Ward,400,27,4,4
+2023-02-06,Metropolitan Healthcare System,General Medical Ward,400,26,2,3
+2023-02-07,Metropolitan Healthcare System,General Medical Ward,400,24,3,6
+2023-02-08,Metropolitan Healthcare System,General Medical Ward,400,24,3,4
+2023-02-09,Metropolitan Healthcare System,General Medical Ward,400,22,4,6
+2023-02-10,Metropolitan Healthcare System,General Medical Ward,400,20,8,8
+2023-02-11,Metropolitan Healthcare System,General Medical Ward,400,19,3,5
+2023-02-12,Metropolitan Healthcare System,General Medical Ward,400,19,0,0
+2023-02-13,Metropolitan Healthcare System,General Medical Ward,400,25,6,0
+2023-02-14,Metropolitan Healthcare System,General Medical Ward,400,26,9,6
+2023-02-15,Metropolitan Healthcare System,General Medical Ward,400,27,2,1
+2023-02-16,Metropolitan Healthcare System,General Medical Ward,400,23,2,6
+2023-02-17,Metropolitan Healthcare System,General Medical Ward,400,27,8,3
+2023-02-18,Metropolitan Healthcare System,General Medical Ward,400,25,5,5
+2023-02-19,Metropolitan Healthcare System,General Medical Ward,400,27,2,0
+2023-02-20,Metropolitan Healthcare System,General Medical Ward,400,28,1,0
+2023-02-21,Metropolitan Healthcare System,General Medical Ward,400,29,9,8
+2023-02-22,Metropolitan Healthcare System,General Medical Ward,400,27,5,5
+2023-02-23,Metropolitan Healthcare System,General Medical Ward,400,29,6,4
+2023-02-24,Metropolitan Healthcare System,General Medical Ward,400,22,6,10
+2023-02-25,Metropolitan Healthcare System,General Medical Ward,400,21,7,10
+2023-02-26,Metropolitan Healthcare System,General Medical Ward,400,22,1,0
+2023-02-27,Metropolitan Healthcare System,General Medical Ward,400,24,5,2
+2023-02-28,Metropolitan Healthcare System,General Medical Ward,400,24,9,9
+2023-03-01,Metropolitan Healthcare System,General Medical Ward,400,25,9,9
+2023-03-02,Metropolitan Healthcare System,General Medical Ward,400,25,9,6
+2023-03-03,Metropolitan Healthcare System,General Medical Ward,400,27,9,5
+2023-03-04,Metropolitan Healthcare System,General Medical Ward,400,27,9,8
+2023-03-05,Metropolitan Healthcare System,General Medical Ward,400,32,6,1
+2023-03-06,Metropolitan Healthcare System,General Medical Ward,400,33,6,4
+2023-03-07,Metropolitan Healthcare System,General Medical Ward,400,30,5,10
+2023-03-08,Metropolitan Healthcare System,General Medical Ward,400,30,7,7
+2023-03-09,Metropolitan Healthcare System,General Medical Ward,400,31,3,0
+2023-03-10,Metropolitan Healthcare System,General Medical Ward,400,34,10,6
+2023-03-11,Metropolitan Healthcare System,General Medical Ward,400,35,9,9
+2023-03-12,Metropolitan Healthcare System,General Medical Ward,400,35,3,0
+2023-03-13,Metropolitan Healthcare System,General Medical Ward,400,39,7,2
+2023-03-14,Metropolitan Healthcare System,General Medical Ward,400,33,9,15
+2023-03-15,Metropolitan Healthcare System,General Medical Ward,400,35,17,15
+2023-03-16,Metropolitan Healthcare System,General Medical Ward,400,37,13,10
+2023-03-17,Metropolitan Healthcare System,General Medical Ward,400,34,13,15
+2023-03-18,Metropolitan Healthcare System,General Medical Ward,400,31,11,11
+2023-03-19,Metropolitan Healthcare System,General Medical Ward,400,34,6,1
+2023-03-20,Metropolitan Healthcare System,General Medical Ward,400,39,7,3
+2023-03-21,Metropolitan Healthcare System,General Medical Ward,400,36,7,7
+2023-03-22,Metropolitan Healthcare System,General Medical Ward,400,37,11,9
+2023-03-23,Metropolitan Healthcare System,General Medical Ward,400,35,15,13
+2023-03-24,Metropolitan Healthcare System,General Medical Ward,400,37,9,8
+2023-03-25,Metropolitan Healthcare System,General Medical Ward,400,38,8,4
+2023-03-26,Metropolitan Healthcare System,General Medical Ward,400,41,5,1
+2023-03-27,Metropolitan Healthcare System,General Medical Ward,400,40,1,2
+2023-03-28,Metropolitan Healthcare System,General Medical Ward,400,38,15,16
+2023-03-29,Metropolitan Healthcare System,General Medical Ward,400,39,14,11
+2023-03-30,Metropolitan Healthcare System,General Medical Ward,400,42,7,4
+2023-03-31,Metropolitan Healthcare System,General Medical Ward,400,43,6,4
+2020-03-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),14,1,1,0
+2020-03-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),14,1,0,0
+2020-03-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,2,1,0
+2020-03-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),31,4,2,0
+2020-03-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),31,4,0,0
+2020-03-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),31,3,0,1
+2020-03-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),31,5,2,0
+2020-03-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),31,5,0,0
+2020-03-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),31,5,0,0
+2020-03-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),31,7,2,0
+2020-03-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),31,8,1,0
+2020-03-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),31,8,0,0
+2020-03-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),31,11,3,0
+2020-03-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),73,10,1,1
+2020-03-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),85,11,1,0
+2020-03-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),85,14,6,3
+2020-03-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),92,16,2,0
+2020-03-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),92,22,5,0
+2020-03-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),92,23,1,0
+2020-03-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),92,24,2,1
+2020-03-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),98,29,5,0
+2020-03-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),98,28,0,1
+2020-04-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),101,31,3,0
+2020-04-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),101,30,1,2
+2020-04-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),103,30,3,3
+2020-04-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),103,32,1,0
+2020-04-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),103,31,0,1
+2020-04-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),103,30,0,1
+2020-04-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),103,32,2,0
+2020-04-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),114,35,4,1
+2020-04-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),114,34,2,2
+2020-04-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),114,36,2,1
+2020-04-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,35,2,1
+2020-04-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,35,1,1
+2020-04-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,33,0,1
+2020-04-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,35,3,1
+2020-04-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,34,2,3
+2020-04-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,30,1,5
+2020-04-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,28,0,0
+2020-04-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,27,1,2
+2020-04-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,26,1,1
+2020-04-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,26,1,1
+2020-04-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,25,0,1
+2020-04-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,24,0,1
+2020-04-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,24,1,1
+2020-04-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,23,1,2
+2020-04-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,23,1,1
+2020-04-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,23,0,0
+2020-04-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,22,0,0
+2020-04-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,23,1,0
+2020-04-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,22,1,1
+2020-04-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,22,0,0
+2020-05-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,21,2,2
+2020-05-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,21,0,0
+2020-05-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,20,0,0
+2020-05-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,20,0,0
+2020-05-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,16,0,4
+2020-05-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,14,0,2
+2020-05-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,13,0,1
+2020-05-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,11,0,2
+2020-05-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,10,0,0
+2020-05-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,10,0,0
+2020-05-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,10,0,0
+2020-05-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,9,0,1
+2020-05-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,9,0,0
+2020-05-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,7,0,2
+2020-05-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),60,7,0,0
+2020-05-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,6,0,1
+2020-05-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,5,0,0
+2020-05-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,5,0,0
+2020-05-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,5,0,0
+2020-05-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,4,0,1
+2020-05-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,3,0,1
+2020-05-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,3,1,1
+2020-05-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,2,0,0
+2020-05-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,2,0,0
+2020-05-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,2,0,0
+2020-05-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,1,0,0
+2020-05-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,1,0,0
+2020-05-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,1,0,0
+2020-05-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,1,0,0
+2020-05-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,1,0,0
+2020-05-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),28,0,0,0
+2020-06-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,1
+2020-06-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,1,0
+2020-06-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,1,0
+2020-06-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,1,0
+2020-06-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,1,1
+2020-06-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,1
+2020-06-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-06-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-07-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-07-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-07-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-07-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-07-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-07-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-07-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-07-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-07-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-07-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-07-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-07-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,1,1,0
+2020-07-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,1,0,0
+2020-07-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,1,0,0
+2020-07-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,2,1,0
+2020-07-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,1,0,1
+2020-07-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,1,0,0
+2020-07-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,2,1,0
+2020-07-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,1,0
+2020-07-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-07-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-07-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,2,0,0
+2020-07-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,2,0,0
+2020-07-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,2,0,0
+2020-07-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,4,2,0
+2020-07-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,4,0,0
+2020-07-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,1
+2020-07-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-07-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,4,1,0
+2020-07-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,5,1,0
+2020-07-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,5,0,0
+2020-08-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,5,0,0
+2020-08-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,2,0,2
+2020-08-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,1,0,0
+2020-08-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,2,1,0
+2020-08-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,1,0
+2020-08-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-08-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,4,1,0
+2020-08-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-08-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-08-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-08-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,2,0,1
+2020-08-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,2,0,0
+2020-08-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,1,0
+2020-08-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-08-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-08-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-08-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-08-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-08-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-08-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,2,0,1
+2020-08-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,2
+2020-08-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-08-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-08-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-08-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-08-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,0,0,0
+2020-08-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,1,1,0
+2020-08-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,1,0,0
+2020-08-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,2,1,0
+2020-08-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,1,0
+2020-08-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-09-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,1,1
+2020-09-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,4,1,0
+2020-09-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,4,0,0
+2020-09-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,1
+2020-09-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-09-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,3,0,0
+2020-09-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,4,1,0
+2020-09-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,4,0,0
+2020-09-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,4,0,0
+2020-09-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,5,1,0
+2020-09-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,6,1,0
+2020-09-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,6,0,0
+2020-09-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,7,1,0
+2020-09-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,9,4,2
+2020-09-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,10,1,0
+2020-09-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,11,1,0
+2020-09-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,11,1,1
+2020-09-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,11,0,0
+2020-09-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,10,1,1
+2020-09-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,13,3,0
+2020-09-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,15,2,0
+2020-09-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,13,0,2
+2020-09-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,10,0,2
+2020-09-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,13,3,0
+2020-09-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,15,3,1
+2020-09-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,17,4,2
+2020-09-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,17,2,2
+2020-09-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,16,0,0
+2020-09-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,16,2,2
+2020-09-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,16,1,1
+2020-10-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,2,2
+2020-10-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,15,0,0
+2020-10-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,15,0,0
+2020-10-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,16,1,0
+2020-10-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,21,5,0
+2020-10-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,20,2,3
+2020-10-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,22,5,3
+2020-10-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),38,21,4,3
+2020-10-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),38,23,4,2
+2020-10-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),40,21,1,2
+2020-10-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),37,27,6,0
+2020-10-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),38,26,6,7
+2020-10-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),38,32,5,0
+2020-10-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),42,35,8,4
+2020-10-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),52,40,6,1
+2020-10-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),55,43,5,0
+2020-10-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),58,44,5,3
+2020-10-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),59,50,7,0
+2020-10-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),63,56,8,3
+2020-10-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),65,55,4,5
+2020-10-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),66,55,9,6
+2020-10-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),68,62,11,4
+2020-10-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),72,65,7,3
+2020-10-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),79,66,9,7
+2020-10-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),79,73,9,0
+2020-10-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),94,82,13,3
+2020-10-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),94,89,11,4
+2020-10-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),101,102,25,11
+2020-10-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),110,114,16,3
+2020-10-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),120,123,19,8
+2020-10-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),127,123,14,8
+2020-11-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),142,131,15,6
+2020-11-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),140,140,18,7
+2020-11-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),153,146,20,12
+2020-11-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),165,155,18,7
+2020-11-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),170,165,21,9
+2020-11-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),182,164,16,10
+2020-11-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),191,174,23,9
+2020-11-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),190,176,11,8
+2020-11-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),190,190,21,6
+2020-11-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),205,192,20,12
+2020-11-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),205,197,18,7
+2020-11-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),219,193,17,21
+2020-11-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),215,200,22,10
+2020-11-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),217,201,20,13
+2020-11-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),218,198,10,8
+2020-11-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),216,205,23,14
+2020-11-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),217,205,18,12
+2020-11-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),220,207,19,13
+2020-11-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),222,198,12,16
+2020-11-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),223,195,17,16
+2020-11-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),223,192,19,16
+2020-11-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),217,195,16,8
+2020-11-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),218,201,16,4
+2020-11-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),220,202,18,10
+2020-11-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),223,200,14,13
+2020-11-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),226,204,21,7
+2020-11-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),228,193,15,16
+2020-11-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),227,188,15,13
+2020-11-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),226,190,21,11
+2020-11-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),226,199,19,5
+2020-12-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),229,207,18,6
+2020-12-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),223,195,14,20
+2020-12-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),221,193,13,9
+2020-12-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),222,195,19,15
+2020-12-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),223,189,20,19
+2020-12-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),219,192,18,12
+2020-12-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),212,189,14,14
+2020-12-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),211,186,20,12
+2020-12-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),214,193,21,12
+2020-12-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),211,185,19,23
+2020-12-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),210,191,24,13
+2020-12-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),210,187,20,20
+2020-12-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),219,196,17,7
+2020-12-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),223,205,16,7
+2020-12-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),223,201,16,15
+2020-12-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),225,205,16,11
+2020-12-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),224,202,21,17
+2020-12-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),224,202,17,14
+2020-12-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),219,199,11,11
+2020-12-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),220,196,12,8
+2020-12-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),222,204,20,8
+2020-12-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),221,204,21,15
+2020-12-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),224,203,16,15
+2020-12-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),224,207,17,11
+2020-12-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),223,198,7,8
+2020-12-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),220,205,15,4
+2020-12-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),218,204,15,11
+2020-12-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),219,201,12,8
+2020-12-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),220,199,16,10
+2020-12-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),222,203,23,13
+2020-12-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),222,190,14,20
+2021-01-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),219,184,14,14
+2021-01-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),216,183,12,7
+2021-01-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),213,185,15,4
+2021-01-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),214,190,14,6
+2021-01-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),215,183,7,10
+2021-01-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),213,185,21,11
+2021-01-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),213,187,17,14
+2021-01-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),213,188,20,15
+2021-01-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),209,189,14,9
+2021-01-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),205,199,18,4
+2021-01-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),204,197,10,8
+2021-01-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),203,188,14,14
+2021-01-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),210,200,23,10
+2021-01-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),212,195,10,14
+2021-01-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),211,194,15,11
+2021-01-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),208,187,15,17
+2021-01-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),211,186,12,7
+2021-01-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),210,179,9,6
+2021-01-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),207,184,17,9
+2021-01-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),207,176,18,17
+2021-01-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),209,180,14,7
+2021-01-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),208,181,12,7
+2021-01-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),201,185,14,8
+2021-01-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),202,183,11,4
+2021-01-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),203,187,14,9
+2021-01-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),200,180,10,12
+2021-01-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),203,166,6,15
+2021-01-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),193,166,15,12
+2021-01-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),193,166,11,8
+2021-01-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),200,161,11,14
+2021-01-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),199,164,13,6
+2021-02-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),199,171,12,4
+2021-02-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),193,167,13,12
+2021-02-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),194,162,8,7
+2021-02-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),188,164,12,8
+2021-02-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),190,160,12,12
+2021-02-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),185,154,6,9
+2021-02-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),185,155,8,5
+2021-02-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),184,158,10,3
+2021-02-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),181,158,14,10
+2021-02-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),182,153,9,8
+2021-02-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),182,152,8,8
+2021-02-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),181,150,5,2
+2021-02-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),170,143,9,12
+2021-02-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),170,137,1,8
+2021-02-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),166,134,2,3
+2021-02-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),164,125,4,11
+2021-02-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),149,126,12,9
+2021-02-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),143,115,6,13
+2021-02-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),136,113,10,6
+2021-02-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),134,107,9,14
+2021-02-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),133,101,3,7
+2021-02-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),135,103,8,2
+2021-02-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),134,106,9,4
+2021-02-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),128,103,4,6
+2021-02-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),126,102,12,11
+2021-02-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),125,94,10,14
+2021-02-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),119,95,9,5
+2021-02-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),114,93,5,4
+2021-03-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),112,91,3,2
+2021-03-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,84,5,11
+2021-03-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),112,81,4,5
+2021-03-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),111,85,7,3
+2021-03-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),109,84,5,6
+2021-03-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),103,88,8,4
+2021-03-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),103,89,5,2
+2021-03-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),103,91,6,2
+2021-03-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),104,90,8,6
+2021-03-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),105,91,10,9
+2021-03-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),95,89,6,5
+2021-03-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),99,83,6,6
+2021-03-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),100,84,10,8
+2021-03-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),100,83,7,7
+2021-03-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),101,87,7,3
+2021-03-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),99,84,6,7
+2021-03-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),98,83,5,5
+2021-03-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),96,85,10,7
+2021-03-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),98,88,10,7
+2021-03-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),99,88,6,5
+2021-03-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),99,93,8,3
+2021-03-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),101,95,9,6
+2021-03-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),104,96,8,5
+2021-03-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),111,98,7,3
+2021-03-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),114,105,18,8
+2021-03-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),117,106,7,5
+2021-03-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),117,104,7,8
+2021-03-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),117,104,6,3
+2021-03-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),133,110,13,3
+2021-03-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),133,103,6,6
+2021-03-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),133,108,15,8
+2021-04-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),133,106,17,16
+2021-04-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),133,116,21,9
+2021-04-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),133,123,15,3
+2021-04-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),143,123,7,4
+2021-04-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),143,126,7,3
+2021-04-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),143,132,12,4
+2021-04-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),153,131,13,13
+2021-04-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),153,129,10,11
+2021-04-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),151,138,19,10
+2021-04-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),151,141,12,8
+2021-04-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),151,139,8,8
+2021-04-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),151,141,6,3
+2021-04-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),151,145,10,6
+2021-04-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),151,152,16,8
+2021-04-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),151,148,12,12
+2021-04-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),162,148,14,9
+2021-04-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),162,148,8,7
+2021-04-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),162,150,8,5
+2021-04-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),162,153,10,7
+2021-04-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),162,154,13,8
+2021-04-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),162,153,11,14
+2021-04-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),164,152,10,4
+2021-04-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,158,15,7
+2021-04-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,159,13,11
+2021-04-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,156,6,7
+2021-04-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,156,11,9
+2021-04-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,159,9,3
+2021-04-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,152,9,7
+2021-04-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,151,8,7
+2021-04-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,151,10,9
+2021-05-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,151,14,10
+2021-05-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,150,5,3
+2021-05-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,146,6,6
+2021-05-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,142,12,14
+2021-05-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,140,10,11
+2021-05-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,139,10,9
+2021-05-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,139,12,10
+2021-05-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,126,4,17
+2021-05-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),172,128,9,5
+2021-05-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),156,131,7,3
+2021-05-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),153,130,5,5
+2021-05-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),153,126,7,10
+2021-05-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),152,122,8,10
+2021-05-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),153,124,7,3
+2021-05-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),148,121,4,6
+2021-05-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),146,120,4,3
+2021-05-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),136,122,7,4
+2021-05-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),133,114,5,10
+2021-05-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),130,111,9,7
+2021-05-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),130,111,10,8
+2021-05-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),130,107,5,9
+2021-05-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),128,98,8,15
+2021-05-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),128,99,5,4
+2021-05-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),115,96,1,3
+2021-05-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),111,92,5,9
+2021-05-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),107,85,6,9
+2021-05-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),107,80,3,6
+2021-05-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),107,79,6,4
+2021-05-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),107,76,1,4
+2021-05-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),107,77,4,2
+2021-05-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),85,73,1,4
+2021-06-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),84,68,4,8
+2021-06-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),84,63,0,2
+2021-06-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),84,62,3,2
+2021-06-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),84,61,3,3
+2021-06-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),79,53,2,10
+2021-06-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),78,49,1,5
+2021-06-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),78,51,4,1
+2021-06-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),78,51,2,2
+2021-06-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),78,47,1,4
+2021-06-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),78,48,3,1
+2021-06-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),78,46,2,1
+2021-06-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),78,42,3,5
+2021-06-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),78,44,4,2
+2021-06-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),78,42,3,4
+2021-06-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),78,40,3,4
+2021-06-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),73,38,1,3
+2021-06-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),73,37,2,3
+2021-06-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),67,39,3,0
+2021-06-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,37,1,3
+2021-06-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,37,1,1
+2021-06-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,35,0,0
+2021-06-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,33,1,3
+2021-06-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,29,0,4
+2021-06-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,28,1,2
+2021-06-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,26,1,3
+2021-06-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,23,0,2
+2021-06-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,22,0,1
+2021-06-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,22,0,0
+2021-06-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,19,1,4
+2021-06-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,16,0,3
+2021-07-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,15,0,1
+2021-07-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,15,0,0
+2021-07-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,15,0,0
+2021-07-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,16,1,0
+2021-07-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,15,0,0
+2021-07-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,14,0,1
+2021-07-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,10,1,4
+2021-07-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),43,9,1,2
+2021-07-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,9,1,1
+2021-07-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,9,0,0
+2021-07-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,9,0,0
+2021-07-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,9,1,0
+2021-07-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,10,1,0
+2021-07-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,10,0,0
+2021-07-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,10,0,0
+2021-07-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,10,0,0
+2021-07-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,10,0,0
+2021-07-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,10,0,0
+2021-07-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,10,0,0
+2021-07-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,9,0,1
+2021-07-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,8,0,1
+2021-07-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,7,0,1
+2021-07-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,8,1,0
+2021-07-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,8,0,0
+2021-07-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,8,1,0
+2021-07-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,8,0,0
+2021-07-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,7,0,1
+2021-07-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,7,0,0
+2021-07-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,8,1,0
+2021-07-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,9,1,0
+2021-07-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,9,1,1
+2021-08-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,8,0,1
+2021-08-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,9,1,0
+2021-08-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,9,0,0
+2021-08-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,8,0,1
+2021-08-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,8,0,0
+2021-08-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,7,0,0
+2021-08-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,8,2,0
+2021-08-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,7,1,1
+2021-08-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,7,0,0
+2021-08-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,7,0,0
+2021-08-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,7,0,0
+2021-08-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,7,1,1
+2021-08-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,6,0,1
+2021-08-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,7,1,0
+2021-08-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,8,3,2
+2021-08-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,9,1,0
+2021-08-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,10,1,0
+2021-08-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,8,1,1
+2021-08-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,9,2,0
+2021-08-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,11,2,0
+2021-08-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,14,3,0
+2021-08-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,16,5,2
+2021-08-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),27,17,1,0
+2021-08-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),27,18,3,1
+2021-08-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),31,18,2,2
+2021-08-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),31,18,3,3
+2021-08-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,20,5,2
+2021-08-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,20,2,2
+2021-08-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,21,1,0
+2021-08-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,24,4,1
+2021-08-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),45,29,6,1
+2021-09-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),45,34,5,0
+2021-09-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),45,39,6,1
+2021-09-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),47,42,4,1
+2021-09-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),47,42,4,3
+2021-09-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),47,41,2,3
+2021-09-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),47,47,8,2
+2021-09-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),51,50,9,6
+2021-09-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),58,58,10,2
+2021-09-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),62,60,4,2
+2021-09-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),68,58,3,4
+2021-09-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),72,60,9,6
+2021-09-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),72,65,5,0
+2021-09-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),86,66,4,3
+2021-09-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),92,71,7,0
+2021-09-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),92,71,8,6
+2021-09-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),92,78,11,1
+2021-09-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),103,84,10,3
+2021-09-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),109,88,7,3
+2021-09-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),109,94,10,3
+2021-09-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),113,98,9,4
+2021-09-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),117,101,11,7
+2021-09-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),117,103,9,5
+2021-09-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),117,101,6,5
+2021-09-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),117,103,9,7
+2021-09-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),117,102,5,5
+2021-09-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),117,104,8,4
+2021-09-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),117,106,8,2
+2021-09-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),117,104,12,13
+2021-09-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),117,112,9,0
+2021-09-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),117,107,4,7
+2021-10-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),127,114,12,4
+2021-10-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),127,120,14,7
+2021-10-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),130,121,8,4
+2021-10-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),130,120,9,7
+2021-10-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),130,120,7,5
+2021-10-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),130,113,7,9
+2021-10-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),131,113,7,5
+2021-10-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),130,114,12,9
+2021-10-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),130,115,9,5
+2021-10-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),130,117,10,7
+2021-10-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),131,117,7,4
+2021-10-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),131,114,11,14
+2021-10-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),131,121,13,4
+2021-10-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),131,116,4,7
+2021-10-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),131,116,8,7
+2021-10-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),129,116,7,7
+2021-10-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),129,121,6,0
+2021-10-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),129,119,3,4
+2021-10-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),129,120,11,7
+2021-10-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),129,119,9,6
+2021-10-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),129,118,8,6
+2021-10-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),132,121,16,7
+2021-10-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),142,117,7,9
+2021-10-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),142,124,12,3
+2021-10-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),142,124,8,5
+2021-10-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),142,128,12,6
+2021-10-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),142,130,14,8
+2021-10-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),140,128,15,13
+2021-10-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),146,130,14,9
+2021-10-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),146,127,12,11
+2021-10-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),148,136,16,6
+2021-11-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),148,142,14,5
+2021-11-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),151,155,16,1
+2021-11-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),173,154,13,9
+2021-11-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),174,165,20,8
+2021-11-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),181,172,22,13
+2021-11-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),187,174,24,15
+2021-11-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),192,180,15,7
+2021-11-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),195,184,20,12
+2021-11-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),212,187,17,12
+2021-11-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),214,186,19,15
+2021-11-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),217,206,30,8
+2021-11-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),228,209,16,10
+2021-11-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),236,219,27,10
+2021-11-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),240,222,16,11
+2021-11-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),243,228,22,13
+2021-11-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),253,236,28,17
+2021-11-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),260,246,29,15
+2021-11-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),266,253,23,9
+2021-11-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),270,253,18,15
+2021-11-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),272,264,28,13
+2021-11-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),274,265,13,11
+2021-11-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),280,276,24,11
+2021-11-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),287,283,29,17
+2021-11-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),293,280,27,26
+2021-11-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),299,288,24,16
+2021-11-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),298,289,20,13
+2021-11-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),303,283,18,16
+2021-11-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),307,284,19,14
+2021-11-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),307,279,17,14
+2021-11-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),307,277,17,15
+2021-12-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),307,276,29,25
+2021-12-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),307,274,16,13
+2021-12-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),302,270,18,18
+2021-12-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),300,264,18,17
+2021-12-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),300,271,21,9
+2021-12-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),300,266,14,11
+2021-12-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),291,267,23,17
+2021-12-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),289,259,19,23
+2021-12-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),290,251,10,12
+2021-12-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),290,241,7,9
+2021-12-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),285,242,20,13
+2021-12-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),283,240,10,8
+2021-12-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),281,235,13,13
+2021-12-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),265,236,17,12
+2021-12-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),263,231,13,16
+2021-12-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),263,234,15,11
+2021-12-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),262,236,17,14
+2021-12-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),256,220,10,18
+2021-12-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),256,215,5,6
+2021-12-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),253,215,16,12
+2021-12-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),249,206,7,10
+2021-12-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),251,206,13,11
+2021-12-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),251,202,14,13
+2021-12-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),240,202,10,9
+2021-12-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),227,200,11,11
+2021-12-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),227,195,4,3
+2021-12-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),224,199,15,7
+2021-12-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),223,199,14,8
+2021-12-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),220,189,10,14
+2021-12-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),220,187,8,7
+2021-12-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),212,180,13,19
+2022-01-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),210,172,8,14
+2022-01-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),210,171,7,6
+2022-01-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),210,171,13,8
+2022-01-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),203,163,8,12
+2022-01-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),203,157,9,12
+2022-01-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),196,160,11,7
+2022-01-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),183,155,14,16
+2022-01-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),174,156,8,4
+2022-01-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),174,159,14,9
+2022-01-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),174,157,8,7
+2022-01-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),174,160,10,5
+2022-01-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),173,154,6,10
+2022-01-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),174,153,11,7
+2022-01-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),174,154,12,10
+2022-01-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),174,153,10,9
+2022-01-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),173,156,10,6
+2022-01-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),173,156,9,7
+2022-01-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),173,154,10,9
+2022-01-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),173,154,9,8
+2022-01-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),174,146,6,8
+2022-01-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),174,143,9,9
+2022-01-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),174,136,6,11
+2022-01-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),174,136,9,4
+2022-01-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),174,135,7,6
+2022-01-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),163,130,13,15
+2022-01-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),158,125,13,14
+2022-01-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),156,124,12,12
+2022-01-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),156,130,17,11
+2022-01-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),154,127,14,16
+2022-01-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),154,133,11,3
+2022-01-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),154,137,12,7
+2022-02-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),154,132,8,13
+2022-02-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),154,130,13,13
+2022-02-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),154,127,14,13
+2022-02-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),154,133,16,9
+2022-02-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),154,133,14,12
+2022-02-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),154,134,11,4
+2022-02-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),154,134,11,9
+2022-02-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),152,141,19,9
+2022-02-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),152,146,15,6
+2022-02-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),152,141,12,16
+2022-02-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),152,136,14,16
+2022-02-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),152,134,13,13
+2022-02-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),152,133,7,6
+2022-02-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),152,136,11,6
+2022-02-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),152,130,7,6
+2022-02-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),152,125,9,13
+2022-02-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),152,119,11,14
+2022-02-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),152,113,11,15
+2022-02-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),149,109,9,11
+2022-02-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),149,110,4,1
+2022-02-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),149,112,10,5
+2022-02-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),149,111,7,6
+2022-02-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),149,115,7,2
+2022-02-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),149,112,6,4
+2022-02-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),149,117,14,9
+2022-02-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),147,106,9,18
+2022-02-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),147,108,6,2
+2022-02-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),145,104,2,3
+2022-03-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),114,94,8,14
+2022-03-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),111,89,4,6
+2022-03-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),107,83,3,7
+2022-03-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),107,80,3,4
+2022-03-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),107,78,1,3
+2022-03-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),107,81,5,1
+2022-03-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),107,80,2,3
+2022-03-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),94,85,8,1
+2022-03-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),94,87,5,3
+2022-03-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),94,86,8,8
+2022-03-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),94,77,5,10
+2022-03-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),94,71,7,10
+2022-03-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),94,71,4,1
+2022-03-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),91,67,2,6
+2022-03-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),91,67,5,3
+2022-03-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),81,61,2,7
+2022-03-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),81,58,1,3
+2022-03-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),79,62,5,1
+2022-03-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),79,61,4,4
+2022-03-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),79,58,3,3
+2022-03-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),74,58,2,1
+2022-03-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),71,56,6,8
+2022-03-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),71,52,5,8
+2022-03-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),71,50,4,4
+2022-03-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),71,49,6,7
+2022-03-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),67,50,7,6
+2022-03-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),67,53,7,3
+2022-03-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),67,55,2,0
+2022-03-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),67,55,3,2
+2022-03-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),67,50,5,9
+2022-03-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),67,46,1,3
+2022-04-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),67,44,2,4
+2022-04-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),67,39,1,5
+2022-04-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),67,40,2,0
+2022-04-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),67,39,2,1
+2022-04-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),63,37,3,4
+2022-04-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),63,40,6,2
+2022-04-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),63,38,3,5
+2022-04-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),63,38,5,5
+2022-04-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),50,37,4,5
+2022-04-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),46,42,7,2
+2022-04-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),46,39,0,2
+2022-04-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),40,32,1,7
+2022-04-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),40,31,3,3
+2022-04-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),40,29,3,3
+2022-04-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),40,29,2,1
+2022-04-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),40,28,3,4
+2022-04-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),40,30,2,0
+2022-04-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),40,30,1,1
+2022-04-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),40,30,3,3
+2022-04-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),40,28,1,3
+2022-04-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),40,29,3,2
+2022-04-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),40,29,2,1
+2022-04-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),40,30,4,3
+2022-04-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),40,33,3,0
+2022-04-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),40,30,1,2
+2022-04-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,29,4,3
+2022-04-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,28,3,4
+2022-04-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,26,1,2
+2022-04-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,23,3,4
+2022-04-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,23,1,1
+2022-05-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,24,2,1
+2022-05-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,22,1,2
+2022-05-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,22,1,1
+2022-05-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,22,4,3
+2022-05-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,21,2,1
+2022-05-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,17,1,4
+2022-05-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,18,3,1
+2022-05-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,19,2,1
+2022-05-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,21,2,0
+2022-05-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,22,5,4
+2022-05-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,19,1,4
+2022-05-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,15,2,5
+2022-05-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,14,0,0
+2022-05-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,9,0,4
+2022-05-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,9,0,0
+2022-05-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,9,0,0
+2022-05-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,9,0,0
+2022-05-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,8,1,2
+2022-05-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,8,2,1
+2022-05-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,8,2,2
+2022-05-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,6,0,1
+2022-05-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,6,0,0
+2022-05-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,7,1,0
+2022-05-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),32,6,0,1
+2022-05-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,6,0,0
+2022-05-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,6,0,0
+2022-05-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,6,0,0
+2022-05-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,5,0,0
+2022-05-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,5,1,1
+2022-05-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,6,1,0
+2022-05-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,7,3,2
+2022-06-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,6,0,1
+2022-06-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,6,0,0
+2022-06-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),22,7,1,0
+2022-06-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,7,0,0
+2022-06-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,7,0,0
+2022-06-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),12,7,1,1
+2022-06-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),12,7,0,0
+2022-06-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,6,0,1
+2022-06-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,7,1,0
+2022-06-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,6,0,1
+2022-06-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,6,0,0
+2022-06-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,6,0,0
+2022-06-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,6,0,0
+2022-06-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,7,1,0
+2022-06-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,7,0,0
+2022-06-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,7,1,1
+2022-06-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,7,0,0
+2022-06-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,6,0,1
+2022-06-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,6,0,0
+2022-06-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,6,0,0
+2022-06-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,6,0,0
+2022-06-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,8,2,0
+2022-06-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,10,2,0
+2022-06-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),9,10,1,0
+2022-06-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,10,1,1
+2022-06-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,11,1,0
+2022-06-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,11,0,0
+2022-06-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,12,1,0
+2022-06-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,11,1,2
+2022-06-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,11,1,1
+2022-07-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,10,0,0
+2022-07-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,11,1,0
+2022-07-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,11,0,0
+2022-07-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,12,1,0
+2022-07-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,10,0,1
+2022-07-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,10,0,0
+2022-07-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,10,1,1
+2022-07-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,12,3,1
+2022-07-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,11,1,2
+2022-07-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,13,2,0
+2022-07-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),7,15,2,0
+2022-07-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),13,14,2,3
+2022-07-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),13,15,3,2
+2022-07-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),13,12,1,2
+2022-07-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),13,14,2,0
+2022-07-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),13,15,1,0
+2022-07-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),13,16,1,0
+2022-07-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),13,20,5,1
+2022-07-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),20,18,0,2
+2022-07-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,19,3,2
+2022-07-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,16,1,3
+2022-07-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,4,3
+2022-07-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,16,4,3
+2022-07-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,18,3,1
+2022-07-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,19,2,1
+2022-07-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,19,2,2
+2022-07-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,18,2,2
+2022-07-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,17,1,2
+2022-07-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,18,2,1
+2022-07-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,2,3
+2022-07-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,1,1
+2022-08-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,17,1,0
+2022-08-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,18,3,2
+2022-08-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,17,1,1
+2022-08-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,20,3,0
+2022-08-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,17,1,3
+2022-08-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,19,3,1
+2022-08-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,0,3
+2022-08-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,0,0
+2022-08-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,17,2,1
+2022-08-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,14,0,2
+2022-08-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,13,1,1
+2022-08-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,5,2
+2022-08-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,2,1
+2022-08-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,0,0
+2022-08-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,17,3,1
+2022-08-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,0,1
+2022-08-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,18,5,2
+2022-08-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,0,3
+2022-08-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,17,3,1
+2022-08-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,1,3
+2022-08-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,1,1
+2022-08-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,14,0,0
+2022-08-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,19,6,1
+2022-08-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,17,2,2
+2022-08-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,2,2
+2022-08-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,0,0
+2022-08-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,3,1
+2022-08-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,0,0
+2022-08-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,1,1
+2022-08-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,1,1
+2022-08-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,14,0,2
+2022-09-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,14,1,0
+2022-09-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,13,0,0
+2022-09-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,2,0
+2022-09-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,1,1
+2022-09-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,1,0
+2022-09-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,0,1
+2022-09-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,13,1,2
+2022-09-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,13,1,1
+2022-09-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,14,2,1
+2022-09-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,2,1
+2022-09-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,0,0
+2022-09-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,3,2
+2022-09-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,12,0,4
+2022-09-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,12,1,0
+2022-09-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,13,1,0
+2022-09-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,14,3,2
+2022-09-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,14,1,1
+2022-09-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,14,1,1
+2022-09-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,12,1,3
+2022-09-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,9,1,3
+2022-09-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,12,3,0
+2022-09-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,14,3,1
+2022-09-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,2,1
+2022-09-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,17,3,1
+2022-09-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,0,2
+2022-09-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,1,0
+2022-09-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,19,6,3
+2022-09-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,18,1,2
+2022-09-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,23,5,0
+2022-09-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,22,0,1
+2022-10-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,20,4,6
+2022-10-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,23,4,1
+2022-10-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,26,4,1
+2022-10-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,29,5,2
+2022-10-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,31,4,1
+2022-10-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,26,0,5
+2022-10-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,28,4,2
+2022-10-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,25,2,5
+2022-10-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,25,1,1
+2022-10-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,25,2,2
+2022-10-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,24,3,4
+2022-10-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,27,3,0
+2022-10-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,26,0,1
+2022-10-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,20,0,6
+2022-10-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,25,6,1
+2022-10-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,26,3,2
+2022-10-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,26,2,0
+2022-10-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,25,1,2
+2022-10-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,23,1,3
+2022-10-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,22,0,1
+2022-10-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,22,1,1
+2022-10-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,20,0,2
+2022-10-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,20,2,2
+2022-10-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,20,3,3
+2022-10-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,18,1,3
+2022-10-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,19,2,1
+2022-10-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,18,3,4
+2022-10-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,19,3,1
+2022-10-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,18,0,0
+2022-10-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,0,3
+2022-10-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,1,0
+2022-11-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,17,2,0
+2022-11-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,1,1
+2022-11-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,15,0,1
+2022-11-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,2,0
+2022-11-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,17,2,1
+2022-11-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,17,0,0
+2022-11-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,18,1,0
+2022-11-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,0,1
+2022-11-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,16,1,1
+2022-11-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,19,4,0
+2022-11-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,19,1,1
+2022-11-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,18,1,1
+2022-11-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,20,3,1
+2022-11-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,23,3,0
+2022-11-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,20,2,4
+2022-11-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,19,1,2
+2022-11-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,20,2,0
+2022-11-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,21,2,0
+2022-11-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,20,0,1
+2022-11-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,19,2,2
+2022-11-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,19,0,0
+2022-11-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,18,0,0
+2022-11-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,17,0,1
+2022-11-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,18,2,0
+2022-11-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,18,2,1
+2022-11-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,18,1,1
+2022-11-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,20,2,0
+2022-11-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,19,0,1
+2022-11-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,19,0,0
+2022-11-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,20,2,1
+2022-12-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,19,0,1
+2022-12-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,16,2,3
+2022-12-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,17,2,1
+2022-12-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,17,1,1
+2022-12-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,18,1,0
+2022-12-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,17,0,1
+2022-12-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,16,1,2
+2022-12-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,17,2,1
+2022-12-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,16,1,2
+2022-12-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,17,3,2
+2022-12-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,20,3,0
+2022-12-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,18,0,2
+2022-12-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,17,2,1
+2022-12-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),24,19,6,3
+2022-12-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),26,22,4,0
+2022-12-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,23,1,0
+2022-12-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,22,3,4
+2022-12-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),30,21,1,2
+2022-12-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,25,4,0
+2022-12-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,26,3,2
+2022-12-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,28,4,2
+2022-12-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,26,4,5
+2022-12-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,27,2,1
+2022-12-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,25,2,3
+2022-12-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,24,2,3
+2022-12-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,20,1,3
+2022-12-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,22,4,2
+2022-12-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,22,3,2
+2022-12-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,21,2,3
+2022-12-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,21,1,0
+2022-12-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,23,7,5
+2023-01-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,20,2,3
+2023-01-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,21,2,1
+2023-01-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,20,1,2
+2023-01-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,26,9,2
+2023-01-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,21,1,6
+2023-01-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,22,3,1
+2023-01-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,21,1,1
+2023-01-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,22,1,0
+2023-01-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,23,4,2
+2023-01-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,21,3,5
+2023-01-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,20,1,2
+2023-01-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,24,4,0
+2023-01-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,22,1,3
+2023-01-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,21,2,3
+2023-01-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,21,1,1
+2023-01-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,18,0,3
+2023-01-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,21,3,0
+2023-01-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,21,1,1
+2023-01-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,21,1,1
+2023-01-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,18,1,3
+2023-01-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,18,0,0
+2023-01-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,15,0,1
+2023-01-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,16,1,0
+2023-01-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,17,1,0
+2023-01-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,17,0,0
+2023-01-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,17,1,1
+2023-01-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,16,1,1
+2023-01-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,16,0,0
+2023-01-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,16,1,1
+2023-01-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,15,0,1
+2023-01-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,13,1,3
+2023-02-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,11,0,2
+2023-02-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,12,1,0
+2023-02-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,10,0,1
+2023-02-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,9,0,1
+2023-02-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,8,0,0
+2023-02-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,7,0,1
+2023-02-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,6,0,1
+2023-02-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,5,0,1
+2023-02-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,4,0,1
+2023-02-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,5,1,0
+2023-02-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,4,0,1
+2023-02-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,4,0,0
+2023-02-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,4,0,0
+2023-02-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,5,1,0
+2023-02-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,5,0,0
+2023-02-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,5,0,0
+2023-02-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,5,1,1
+2023-02-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,6,1,0
+2023-02-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,6,0,0
+2023-02-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,6,0,0
+2023-02-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,5,1,1
+2023-02-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,6,1,0
+2023-02-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,4,0,1
+2023-02-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,7,3,0
+2023-02-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,5,0,2
+2023-02-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,5,0,0
+2023-02-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,6,2,1
+2023-02-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,6,0,0
+2023-03-01,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,5,1,2
+2023-03-02,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,7,2,0
+2023-03-03,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,8,1,0
+2023-03-04,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,8,0,0
+2023-03-05,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,8,0,0
+2023-03-06,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,8,1,1
+2023-03-07,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,5,0,3
+2023-03-08,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,4,1,1
+2023-03-09,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,5,1,0
+2023-03-10,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,5,1,1
+2023-03-11,Metropolitan Healthcare System,Intensive Care Unit (ICU),34,4,0,1
+2023-03-12,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,5,1,0
+2023-03-13,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,5,1,1
+2023-03-14,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,4,0,1
+2023-03-15,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,4,0,0
+2023-03-16,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,4,1,1
+2023-03-17,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,5,1,0
+2023-03-18,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,6,2,0
+2023-03-19,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,6,0,0
+2023-03-20,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,5,1,2
+2023-03-21,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,6,1,0
+2023-03-22,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,7,2,1
+2023-03-23,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,6,1,1
+2023-03-24,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,5,0,1
+2023-03-25,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,6,2,0
+2023-03-26,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,6,1,1
+2023-03-27,Metropolitan Healthcare System,Intensive Care Unit (ICU),36,6,1,1
+2023-03-28,Metropolitan Healthcare System,Intensive Care Unit (ICU),38,7,2,1
+2023-03-29,Metropolitan Healthcare System,Intensive Care Unit (ICU),38,8,2,1
+2023-03-30,Metropolitan Healthcare System,Intensive Care Unit (ICU),38,7,0,1
+2023-03-31,Metropolitan Healthcare System,Intensive Care Unit (ICU),38,8,1,0
